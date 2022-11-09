@@ -29,9 +29,6 @@ def compare_words(word_a: str, word_b: str):
 if __name__ == "__main__":
     with open('dewiktionary-latest-all-titles-in-ns0', 'r') as inputfile, open('parsed.txt', 'w') as outputfile:
         match_target = "\n"
-        i = 0
-        lower = 1000
-        higher = 1020
         for line in inputfile:
             if re.search(r'^[a-zA-ZäÄöÖüÜß\-\']+$', line):
                 print(f"comparing \"{ line[:-1] }\" to target \"{ match_target[:-1] }\"")
@@ -42,5 +39,3 @@ if __name__ == "__main__":
                     print(f"> negative match, writing and updating target")
                     outputfile.write(line)
                     match_target = line
-
-            i += 1
