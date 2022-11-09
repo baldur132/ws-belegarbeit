@@ -1,0 +1,434 @@
+{{Wort der Woche|40|2006}}
+== Katze ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===
+
+{{Deutsch Substantiv Übersicht
+|Genus=f
+|Nominativ Singular=Katze
+|Nominativ Plural=Katzen
+|Genitiv Singular=Katze
+|Genitiv Plural=Katzen
+|Dativ Singular=Katze
+|Dativ Plural=Katzen
+|Akkusativ Singular=Katze
+|Akkusativ Plural=Katzen
+|Bild 1=Collage_of_Six_Cats-01.jpg|mini|1|[[verschieden#Adjektiv|verschiedene]] ''Katzen''
+|Bild 2=The_Felidae.jpg|mini|4|kleine [[Auswahl]] verschiedener ''Katzen'' (von links oben nach rechts unten): [[Tiger]], [[w:Kanadischer Luchs|Kanadischer Luchs]], [[w:Serval|Serval]], [[Puma]], [[w:Fischkatze|Fischkatze]], [[w:Asiatische Goldkatze|Asiatische Goldkatze]], [[Ozelot]], [[w:Europäische Wildkatze|Europäische Wildkatze]]
+|Bild 3=Origin-of-the-World.jpg|mini|6|[[w:Gustave Courbet|Gustave Courbets]] [[berühmt]]es, [[seinerzeit]] skandalträchtiges [[Gemälde]] »[[w:Der Ursprung der Welt|L’Origine du monde (Der Ursprung der Welt)]]« von 1866 zeigt eine Nahsicht der ''Katze'' einer [[liegend]]en, [[nackt]]en [[Frau]] mit [[gespreizt]]en [[Schenkel]]n.
+}}
+
+{{Nebenformen}}
+:[[Katz]]
+
+{{Worttrennung}}
+:Kat·ze, {{Pl.}} Kat·zen
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈkat͡sə}}
+:{{Hörbeispiele}} {{Audio|De-Katze.ogg}}, {{Audio|De-Katze2.ogg}}, {{Audio|LL-Q188 (deu)-Lucas Werkmeister-neu.wav}}, {{Audio|LL-Q188 (deu)-Sebastian Wallroth-neu.wav}}, {{Audio|De-at-Katze.ogg|die Katze|spr=at}}
+:{{Reime}} {{Reim|at͡sə|Deutsch}}
+
+{{Bedeutungen}}
+:[1] {{K|Zoologie}} in zahlreichen [[Rasse]]n [[gezüchtet]]es, dem [[Mensch]]en [[verbunden]]es, [[anschmiegsam]]es [[Haustier]] (''Felis silvestris catus'')
+:[2] [[weiblich]]es [[Exemplar]] des unter [1] beschriebenen Haustieres
+:[3] {{K|Jägersprache}} weibliches Exemplar von [[Luchs]], [[Murmeltier]], [[Wildkatze]]
+:[4] {{K|Zoologie}} [[Vertreter]] einer Familie von katzenartigen [[Raubtier]]en (Felidae), die nahezu [[weltweit]] in [[zahlreich]]en [[Art]]en [[vorkommen]]
+:[5] {{K|landsch.|sonst|va.}} [[klein]]es ([[flexibel|flexibles]]) [[Behältnis]] für das bei sich getragene [[Geld]]
+:[6] {{K|derb}} die äußeren weiblichen [[Geschlechtsorgan]]e
+:[7] {{K|vatd.|t1=_|ugs.|t2=_|abw.}} (besonders [[leicht]]e; [[streitsüchtig]]e, [[zänkisch]]e) weibliche Person
+:[8] {{K|Bedva.|ugs.}} (besonders [[hübsch]]es, [[lebenslustig]]es) weibliches [[Kind]] beziehungsweise [[jung]]e, [[heranwachsen]]de [[Frau]]
+:[9] {{K|Bedva.|ugs.}} [[weiblich]]e [[Person]], die für ein [[Entgelt]] [[sexuell]]e [[Handlungen]] als [[Dienstleistung]] [[anbietet]] und [[ausübt]]
+
+{{Herkunft}}
+:[1] Bei der Bezeichnung des Tieres handelt es sich um ein altes,<ref name=\"DHW\">{{Lit-Duden: Herkunftswörterbuch|A=5}}, Stichwort »Katze«, Seite 437.</ref> recht spät auftretendes<ref name=\"Kluge\">{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort »Katze«, Seite 478.</ref> [[Wanderwort]],<ref name=\"DHW\"/><ref name=\"Kluge\"/> das seit dem ausgehenden [[Altertum]] in fast allen [[europäisch]]en und einigen außereuropäischen [[Sprache]]n<ref name=\"Pfeifer\">{{Ref-Pfeifer}}</ref> erscheint,<ref name=\"DHW\"/> doch sind Herkunft und Entlehnungswege ungeklärt.<ref name=\"Pfeifer\"/><ref name=\"DHW\"/><ref name=\"Kluge\"/> Die nicht zum gemeinsamen [[indoeuropäisch]]en Bestand gehörende Bezeichnung findet sich (allerdings mit wechselnder Stammbildung) im [[Westgermanisch|West-]] und [[Nordgermanisch]]en; für das [[Gotisch]]e fehlen Belege.<ref name=\"Pfeifer\"/> Auf die seit dem 4. Jahrhundert belegten [[spätlateinisch]]en Formen ''{{Ü|la|catta}}'' {{f}} ‚Katze‘<ref>{{Ref-Georges|catta|nid=20002267810}}</ref> / ''{{Ü|la|cattus}}, {{Ü|la|catus}}'' {{m}} ‚[[Kater]]‘<ref>{{Ref-Georges|cattus|nid=20002267845}}<br />{{Ref-Georges|catus|nid=20002267993}}</ref> beruhen die [[mittelgriechisch]]en {{Üt|grc|κάττα|katta}} {{f}} ‚Katze‘,<ref name=\"LSJ\">{{Ref-LSJ|ka%2Ftta|κάττα}}</ref><ref>{{Ref-Pape|κάττα}}</ref> / {{Üt|grc|κάττος|kattos}}<ref name=\"LSJ\"/> {{m}} ‚Kater‘ und die [[romanisch]]en Formen (vergleiche unter anderem [[französisch]]es ''{{Ü|fr|chat}}'' {{m}} / ''{{Ü|fr|chatte}}'' {{f}}, [[italienisch]]es ''{{Ü|it|gatto}}'' {{m}} / ''{{Ü|it|gatta}}'' {{f}} und [[spanisch]]es ''{{Ü|es|gato}}'' {{m}} / ''{{Ü|es|gata}}'' {{f}}).<ref name=\"Pfeifer\"/> Möglicherweise sind auch die übereinstimmenden Formen in den [[baltoslawisch]]en Sprachen hier anzuschließen (vergleiche zum Beispiel [[altrussisch]]es {{Üt|orv|котъ|<small>{{ISO 9}}</small> kotʺ}} ‚Kater‘ / {{Üt|orv|котъка|<small>{{ISO 9}}</small> kotʺka}} ‚Katze‘<ref name=\"Срезневский\">{{Literatur | Autor=И[змаил]. И[ванович]. Срезневский | Titel=Матеріалы для словаря древне-русского языка по письменнымъ памятникамъ | Band=Томъ первый. А — К. | Verlag=типографія Императорской Академіи Наукъ | Ort=Санктпетербургъ | Jahr=1893, Stichwort »КОТЪ« und »КОТЪКА« | Spalten=1303 | Online=Zitiert nach Wikisource-Quellentext „[https://commons.wikimedia.org/w/index.php?title=File%3A%D0%A1%D1%80%D0%B5%D0%B7%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_-_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%B4%D0%BB%D1%8F_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8F_%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%2C_%D1%82%D0%BE%D0%BC_1.pdf&page=664 Срезневский - Материалы для словаря древнерусского языка по письменным памятникам, том 1]“ }}.</ref>, [[russisch]]es {{Üt|ru|кот}} ‚Kater‘<ref>{{Ref-RUW|кот}}</ref> sowie [[litauisch]]es ''{{Ü|lt|katė|katẽ}}'' {{f}} ‚Katze‘<ref>{{Ref-LKZD|katė|17|055610000}}</ref> / ''{{Ü|lt|katinas|kãtinas}}'' {{m}} ‚Kater‘<ref>{{Ref-LKZD|katinas|17|056340000}}</ref>).<ref name=\"Pfeifer\"/> Höheres Alter könnte dagegen den [[keltisch]]en ([[altirisch]]es ''{{Ü|sga|cat}},'' [[kymrisch]]es ''{{Ü|cy|cath}};'' im irischen Fürstennamen ''Cenn Cait'' ‚Katzenkopf‘ vielleicht schon auf das 1. Jahrhundert zurückgehend) und den [[germanisch]]en Bildungen (siehe unten) zukommen, so dass der Ursprung der Benennung (zunächst wohl für die einheimische Wildkatze) mehrfach in diesen beiden Sprachgruppen vermutet wird.<ref name=\"Pfeifer\"/> Am ehesten handele es sich demnach um ein aus einem [[Lockruf]] entwickeltes [[nordgermanisch]]es Wort.<ref name=\"DHW\"/>
+:Allerdings klingt die [[Lautform]] an [[nordafrikanisch]]e Sprachen an.<ref name=\"Kluge\"/> Besonders auffällig sind Entsprechungen [[afroasiatische Sprache|afroasiatischer Sprachen]] wie [[w:Nubische Sprachen|nubisches]] ''kadīs'' ‚Katze‘,<ref>{{Literatur | Autor=Gertrud von Massenbach | Titel-P=Nubische Texte im Dialekt der Kunūzi und der Dongolawi | TitelErg=mit Glossar | Verlag=Deutsche Morgenländische Gesellschaft/Kommissionsverlag Franz Steiner | Ort=Wiesbaden | Jahr=1962 | Stichwort »kadīs« | Seiten=203 (Glossar) | Online=Zitiert nach [http://menadoc.bibliothek.uni-halle.de/inhouse/content/pageview/6413802?query=Katze Digitalisat] der [[w:Martin-Luther-Universität Halle-Wittenberg|MLU]] }}.</ref> [[Berberisch|berberisches]] ''kaddîska''<ref name=\"FEW\">{{Ref-FEW|49835|20|520|cattus}}</ref> / ''kadiska'' ‚Katze‘<ref name=\"OEtymD\">{{Ref-OEtymD|cat}}</ref> und affadeisches ''gâda''<ref name=\"FEW\"/> (vergleiche [[arabisch]]es {{Üxx4|ar|قط|v=قِطّ|d=qiṭṭ}}, das wohl der gleichen Quelle entstammt)<ref name=\"OEtymD\"/>, die eine Ausbreitung des Tiernamens von Afrika her (womöglich durch [[keltisch]]e Vermittlung)<ref name=\"DHW\"/> annehmen lassen, da die gezähmte Katze zuerst in [[Ägypten]] vorkommt und von dort nach Europa gelangt.<ref name=\"Pfeifer\"/> Im [[Ägyptisch]]en selbst sind keine Entsprechungen belegt;<ref name=\"Huehnergard\">Nach {{Literatur | Autor=John Huehnergard | Titel=Qiṭṭa | TitelErg=Arabic Cats | Herausgeber=Beatrice Gruendler, with the assistance of Michael Cooperson | Sammelwerk=Classical Arabic Humanities in Their Own Terms | WerkErg=Festschrift for Wolfhart Heinrichs on his 65th birthday presented by his students and colleagues | Verlag=Brill | Ort=Leiden/Boston | Jahr=2008 | ISBN=978-90-04-16573-1 | Seiten=413 | Online=Zitiert nach {{GBS|n1_qqgNTsX8C|PA413|Hervorhebung=miw+emou}} }}.</ref> dort ist ab der Zeit des [[w:Mittleres Reich|Mittleren Reichs]] für das Tier das [[onomatopoetisch]]e [[Lockwort]] [[𓏇𓇋𓅱𓄛|<hiero>W19-M17-G43-F27</hiero>]]<ref name=\"WbäS42\">{{Literatur | Herausgeber=[[w:Adolf Erman|Adolf Erman]], [[w:Hermann Grapow|Hermann Grapow]] | Titel=[[w:Wörterbuch der ägyptischen Sprache|Wörterbuch der Aegyptischen Sprache]] | Band=Zweiter Band | Verlag=Akademie-Verlag | Ort=Berlin | Jahr=1971, Stichwort »mjw« | Seiten=42 | Kommentar=Unveränderter Nachdruck }}.</ref> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-w-<[[w:Determinativ|Determinativ]] für „Säugetier“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjw;<ref name=\"WbäS42\"/> <small>Huehnergard:</small> miw<ref name=\"Huehnergard\"/>), [[𓏇𓇋𓅱𓃱|<hiero>W19-M17-G43-E13</hiero>]]<ref name=\"WbäS42\"/> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-w-<[[w:Determinativ|Determinativ]] für „Katze“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjw;<ref name=\"WbäS42\"/> <small>Huehnergard:</small> miw<ref name=\"Huehnergard\"/>) {{m}} ‚Kater‘<ref name=\"WbäS42\"/> / <hiero>W19-M17-M17-X1:F27</hiero><ref name=\"WbäS42\"/><ref name=\"KoptHWB25\">{{Literatur | Autor=Wilhelm Spiegelberg | Titel=Koptisches Handwörterbuch | Verlag=Carl Winters Universitätsbuchhandlung | Ort=Heidelberg | Jahr=1921 | Seiten=25 }}.</ref> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-j-t-<[[w:Determinativ|Determinativ]] für „Säugetier“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjt;<ref name=\"WbäS42\"/> <small>[[w:Wilhelm Spiegelberg|Spiegelberg]]</small> ʾmʾj·t<ref name=\"KoptHWB25\"/>) {{f}} ‚Katze‘ belegt,<ref name=\"KoptHWB25\"/> das sich im [[koptisch]]em {{Koptisch|{{Ü|cop|ⲉⲙⲟⲩ}}}} (<small>KNAB 2001:</small> emou) {{f}} ‚Katze‘<ref name=\"KoptHWB25\"/><ref name=\"Crum55\">{{Literatur | Autor=[[w:Walter Ewing Crum|W[alter]. E[wing]. Crum]], compiled with the help of many scholars | Titel=A Coptic Dictionary | Verlag=Oxford University Press | Ort=Oxford/New York | Jahr=1990 | ISBN=0-19-864404-3 | Seiten=55 | Kommentar=Sechsbändige Erstausgabe in der Clarendon Press, Oxford 1929–1939 }}.</ref> fortsetzt.<ref name=\"Huehnergard\"/>
+:Im [[Deutsch]]en geht das Wort über seine [[mittelhochdeutsch]]e Form ''{{Ü|gmh|katze}}'' {{f}}<ref>{{Ref-Lexer|katze|id=LK00577}}</ref> auf die ab dem 9. Jahrhundert bezeugten [[althochdeutsch]]en Entsprechungen ''{{Ü|goh|kazza}}'' {{f}}<ref>{{Ref-AWB|kazza}}</ref> / ''{{Ü|goh|kazzo}}'' {{m}}<ref>{{Ref-AWB|kazzo}}</ref> zurück,<ref name=\"Kluge\"/><ref name=\"Pfeifer\"/> die zusammen mit [[altnordisch]]em ''{{Ü|non|kǫttr}}'' {{m}} / ''{{Ü|non|ketta}}'' {{f}} (vergleiche [[schwedisch]]es ''{{Ü|sv|katt}}'' {{m}} / ''{{Ü|sv|katta}}'' {{f}}),<ref name=\"Pfeifer\"/> [[altenglisch]]em ''{{Ü|ang|catt}}'' {{m}} / ''{{Ü|ang|catte}}'' {{f}} (vergleiche [[englisch]]es ''{{Ü|en|cat}}''),<ref name=\"Pfeifer\"/> [[mittelniederländisch]]em ''{{Ü|dum|catte}}'' {{f}} (vergleiche [[niederländisch]]es ''{{Ü|nl|kat}}'' {{f}}),<ref name=\"Pfeifer\"/> [[mittelniederdeutsch]]em ''{{Ü|gml|katte}}'' {{f}}<ref name=\"Pfeifer\"/> und [[altfriesisch]]em ''{{Ü|ofs|katte}}'' {{f}}<ref name=\"Pfeifer\"/> den erschlossenen [[germanisch]]en Formen ''*kattōn, *kattu-'' ‚Katze‘ entstammen.<ref name=\"DHW\"/>
+:[5] Das genaue Benennungsmotiv ist unklar, vielleicht wegen der länglichen Form, die einer sich anschmiegenden Katze ähnelt oder nach der in der Sage häufigen Darstellung der Katze als Hüterin von Schätzen.<ref>{{Lit-Duden: Universalwörterbuch|A=9}}, Stichwort »Katze«, Seite 997.<br />{{Ref-Duden}}</ref>
+:[7] Diese Bedeutung ist seit dem 19. Jahrhundert belegt.<ref name=\"WddU\">{{Lit-Küpper: Wörterbuch der Umgangssprache|A=1 (Digitale Bibliothek)}}, Stichwort »Katze«.</ref> Der so bezeichneten Frau wird unterstellt, dass sie [[sinnbildlich]] das [[fauchen|Fauchen]], [[kratzen|Kratzen]] und [[beißen|Beißen]] mit der Katze gemeinsam hat.<ref name=\"WddU\"/>
+:[8] Ab 1900 ist diese Bedeutung belegt (vergleiche ''[[Kätzchen]]'').<ref name=\"WddU\"/>
+:[9] Diese ebenfalls ab 1900 belegte Bedeutung fußt auf der Vorstellung, dass sich die Prostituierte herumtreibt wie die Katze auf Mäuse- und Vogelfang.<ref name=\"WddU\"/>
+
+{{Synonyme}}
+:[1] [[Hauskatze]] (''Felis catus'', {{L|Synonym|Syn.}} ''Felis domestica'')
+:[1] {{fam.|:}} [[Miau]],<ref name=\"Küpper\">Nach {{Lit-Küpper: Lexikon der Umgangssprache|B=1 (Gesamtwerk)}}.<br />Nach {{Lit-Küpper: Wörterbuch der Umgangssprache|A=1 (Digitale Bibliothek)}}.</ref> [[Miez]],<ref name=\"Küpper\"/> [[Mieze]], [[Miezekatze]], [[Minse]],<ref name=\"Küpper\"/> [[Murke]],<ref name=\"Küpper\"/> [[Mutz]],<ref name=\"Küpper\"/> [[Puss]],<ref name=\"Küpper\"/> [[Samtpfötchen]]; {{schweiz.}} ''[[mundartlich]]:'' [[Büsi]]
+:[1] {{scherzh.|:}} [[Dachhase]], [[Etappenhase]],<ref name=\"Küpper\"/> [[Haustiger]],<ref name=\"Küpper\"/> [[Schlummerrolle]],<ref name=\"Küpper\"/> [[Stubentiger]]
+:[1] ''[[Kosename]] des Tieres, mitunter auch [[Kindersprache|kindersprachlich]]:'' [[Maunz]],<ref name=\"Küpper\"/> [[Mausi]],<ref name=\"Küpper\"/> [[Mimi]] / [[Mimm]] / [[Mimmi]],<ref name=\"Küpper\"/> [[Miss]],<ref name=\"Küpper\"/> [[Mizzi]],<ref name=\"Küpper\"/> [[Molli]],<ref name=\"Küpper\"/> [[Musch]],<ref name=\"Küpper\"/> [[Muschi]],<ref name=\"Küpper\"/> [[Pussi]],<ref name=\"Küpper\"/> [[Putzi]],<ref name=\"Küpper\"/> [[Schnucki]],<ref name=\"Küpper\"/> [[Schnuppi]],<ref name=\"Küpper\"/> [[Schnurrdiburr]]<ref name=\"Küpper\"/>
+:[2] [[Kätzin]]
+:[2] {{landsch.|:}} [[Käterin]]
+:[2] {{va.|:}} [[Kieze]]
+:[5] [[Geldbeutel]]
+:[6] [[Vulva]]
+:[6] ''[[salopp]]:'' [[Kätzchen]], [[Muschi]]
+:[6] ''[[derb]]:'' [[Möse]], [[Muffe]], [[Pflaume]]
+:[6] ''[[vulgär]]:'' [[Fotze]] / [[Votze]], [[Fut]], [[Pussy]]
+:[9] [[Prostituierte]]
+
+{{Männliche Wortformen}}
+:[2] [[Kater]]
+:[2] {{landsch.|:}} [[Katzer]]; {{va.|:}} [[Katz]], [[Katzmann]]
+
+{{Verkleinerungsformen}}
+:[1–4] [[Kätzchen]], [[Kätzlein]]
+
+{{Oberbegriffe}}
+:[1–4] [[Raubtier]], [[Säugetier]], [[Tier]]
+:[1, 2] [[Haustier]]
+:[5] [[Behältnis]]
+:[6] [[Geschlechtsorgan]]
+:[7–9] [[weiblich]]e [[Person]]
+
+{{Unterbegriffe}}
+:[1] [[Kater]]; [[Kätzchen]], [[Katzenjunges]], [[Junges]]; [[Kätzin]]
+:[1] [[Straßenkatze]]
+:[1] [[Rassekatze]]: [[Abessinierkatze]], [[Angorakatze]] (''Felis maniculata angorensis''), [[Perserkatze]], [[Siamkatze]], [[Schwimmkatze]]/[[Türkische Katze]]/[[Türkisch Van]]/[[Vankatze]]; ''weitere siehe [[w:Liste von Katzenrassen]]''
+:[1] [[Glückskatze]]
+:[1] {{übertr.}} ''(Gegenstand):'' [[Glückskatze]] (japanischer Glücksbringer, Maneki-neko), [[Grinsekatze]], [[Winkekatze]]
+:[1] {{übertr.}} ''(Person):'' [[Naschkatze]], [[Schmusekatze]]
+:[4] [[Raubkatze]]
+:[4] ''Unterfamilie:'' [[Großkatze]] (Pantherinae)
+::''Arten:'' [[Jaguar]] / [[Unze]] (''Panthera onca''), [[Leopard]] (''Panthera pardus''), [[Löwe]] (''Panthera leo''), [[Nebelparder]] (''Neofelis nebulosa''), [[Schneeleopard]] / [[Irbis]] / [[Unze]] (''Panthera uncia''), [[Sunda-Nebelparder]] (''Neofelis diardi''), [[Tiger]] (''Panthera tigris'')
+:[4] ''Unterfamilie:'' [[Kleinkatze]] (Felinae)
+::''Arten:'' [[Afrikanische Goldkatze]] (''Caracal aurata''), [[Afrikanische Wildkatze]] / [[Falbkatze]] (''Felis silvestris libyca''), [[Andenkatze]] (''Oreailurus jacobitus''), [[Asiatische Goldkatze]] (''Catopuma temmincki''), [[Asiatische Wildkatze]] / [[Steppenkatze]] (''Felis silvestris ornata''), [[Baumozelot]] / [[Bergozelot]] / [[Langschwanzkatze]] / [[Margay]] / [[Marguay]] / [[Peludo]] (''Leopardus wiedii''), [[Bengalkatze]] (''Prionailurus bengalensis''), [[Berglöwe]] / [[Kuguar]] / [[Puma]] / [[Silberlöwe]] (''Puma concolor''), [[Borneo-Goldkatze]] (''Catopuma badia''), [[Chilenische Waldkatze]] (''Oncifelis guigna''), [[Eurasischer Luchs]] / [[Nordluchs]] (''Lynx lynx'', {{L|Synonym|Syn.}} ''Felis lynx''), [[Fischkatze]] (''Prionailurus viverrinus'', {{L|Synonym|Syn.}} ''Felis viverrinus''), [[Flachkopfkatze]] (''Prionailurus planiceps''), [[Geoffroy-Katze]] / [[Kleinfleckkatze]] / [[Salzkatze]] (''Leopardus geoffroyi'', {{L|Synonym|Syn.}} ''Oncifelis geoffroyi''), [[Gepard]] (''Acinonyx jubatus''), [[Gobikatze]] / [[Graukatze]] (''Felis bieti''), [[Iriomote-Katze]] (''Prionailurus bengalensis iriomotensis'', {{L|Synonym|Syn.}} ''Prionailurus iriomotensis''), [[Kanadischer Luchs]] (''Lynx canadensis''), [[Karakal]] / [[Wüstenluchs]] (''Caracal caracal''), [[Manul]] / [[Pallaskatze]] (''Otocolobus manul'', {{L|Synonym|Syn.}} ''Felis manul''), [[Marmorkatze]] (''Pardofelis marmorata''),  [[Ozelot]] (''Leopardus pardalis''), [[Ozelotkatze]] / [[Tigerkatze]] (''Leopardus tigrinus''), [[Pampaskatze]] (''Leopardus colocolo'', {{L|Synonym|Syn.}} ''Oncifelis colocolo''), [[Pardelluchs]] (''Lynx pardinus''), [[Rohrkatze]] / [[Sumpfluchs]] (''Felis chaus''), [[Rostkatze]] (''Prionailurus rubiginosus''), [[Rotluchs]] (''Lynx rufus''), [[Säbelzahnkatze]] (Machairodontinae), [[Sandkatze]]/[[Wüstenkatze]] (''Felis margarita''), [[Schwarzfußkatze]] (''Felis nigripes''), [[Serval]] (''Leptailurus serval''), [[Wildkatze]] (''Felis silvestris'')
+:[5] [[Geldkatze]]
+
+{{Beispiele}}
+:[1] „Eine große alte fleischige ''Katze'' lag träg ausgebreitet auf dem Tisch und die Lehrerin untersuchte ihre offenbar ein wenig verletzte Pfote. Frieda hatte also doch recht gehabt, diese ''Katze'' war zwar nicht auf sie gesprungen, denn springen konnte sie wohl nicht mehr, aber über sie hinweggekrochen, war über die Anwesenheit von Menschen in dem sonst leeren Hause erschrocken, hatte sich eilig versteckt und bei dieser ihr ungewohnten Eile verletzt.“<ref>{{Literatur | Autor=[[w:Franz Kafka|Franz Kafka]] | Herausgeber=[[w:Max Brod|Max Brod]] | Titel=[[w:Das Schloss|Das Schloss]] | TitelErg=Roman | Verlag=Kurt Wolff Verlag | Ort=München | Jahr=1926 | Seiten=[252]–[253] | Online=Zitiert nach {{Wikisource|Seite:De_Kafka_Schloß_252.jpg}} und „[[s:Seite:De_Kafka_Schlo%C3%9F_253.jpg|Seite:De_Kafka_Schloß_253.jpg]]“ }}.</ref>
+:[1] „Auch wenn ''Katzen'' vor seiner Tür jaulten, stand er auf vom Lager, selbst bei Kälte, und ließ sie in die Wärme ein.“<ref>{{Literatur | Autor=[[w:Bertolt Brecht|Bertolt Brecht]] | Titel=[[w:Geschichten vom Herrn Keuner|Geschichten vom Herrn Keuner]] | TitelErg=Der verwundete Sokrates | Verlag=Fackelträger-Verlag Schmidt-Küster | Ort=Hannover | Jahr=1959 | Seiten=17 | Online=Zitiert nach {{GBS|huxbAAAAMAAJ|PA17|Hervorhebung=\"Auch wenn Katzen vor seiner Tür jaulten\"}}; Lizenzausgabe des Weiss Verlag, Berlin  }}.</ref>
+:[1] „Wer fragt schon, ob so eine ''Katze'' gekört ist?“<ref>{{Literatur | Autor=[[w:Erwin Strittmatter|Erwin Strittmatter]] | Titel=Pony Pedro | Verlag=Kinderbuchverlag | Ort=Berlin | Jahr=1959 | Seiten=119 }}.</ref>
+:[1] „Eine bernsteinfarbene, dicke ''Katze'' kam aus einer Ecke und sprang ihm auf den Schoß.“<ref>{{Literatur | Autor=[[w:Johannes Mario Simmel|Johannes Mario Simmel]] | Titel=Der Stoff, aus dem die Träume sind | TitelErg=Roman | Verlag=Droemer Knaur | Ort=München/Zürich | Jahr=1971 | ISBN=3-426-08998-X | Seiten=668 }}.</ref>
+:[1] „Wenn ich am Morgen im Bett liege, ausschlafen will, jedermann hat das Recht, einmal in der Woche auszuschlafen, schreit die ''Katze'' um Viertel vor sieben vor meiner Tür, es rührt mich, es ärgert mich, soll sie sich zum Teufel scheren, das Biest ist sich gewöhnt, dass ich um diese Zeit herauskomme, die lange Katzennacht beende, in der sie umherschleicht, auf Kissen hockt, schläft, aufwacht, rührend, wie sie auf mich wartet, wirklich rührend, ich Riesenkätzin, Nährmutter, Spielmutter, Fleischberg, tapsige, ungeschickte, schwerfüßige, unverständliche, schreckliche Göttin auf dem Thron, gefährlich, freundlich, herablassend, launischgereizt, finster, nachlässig, ohne ersichtlichen Grund, fremdriechend, warm, allmächtig, gut.“<ref>{{Literatur | Autor=[[w:Helen Meier|Helen Meier]] | Titel=Trockenwiese | TitelErg=Geschichten | Verlag=Ammann Verlag | Ort=Zürich | Jahr=1984 | ISBN=3-250-10029-3 | Seiten=119–120 }}.</ref>
+:[1] „Doch binnen einer halben Stunde fand sich die ''Katze'' erneut vor dem Amtszimmer des Schatzmeisters ein, weitaus hungriger als vorher.“<ref>{{Literatur | Autor=[[w:Philip Davis (Mathematiker)|Philip J. Davis]] | Titel=Pembrokes Katze | TitelErg=Die wundersame Geschichte über eine philosophierende Katze, ein altes mathematisches Problem und die Liebe | Verlag=Fischer Taschenbuch Verlag | Ort=Frankfurt am Main | Jahr=1991 | Seiten=19 | ISBN=3-596-10646-X | Originaltitel=Thomas Gray: Philosopher Cat | Übersetzer=[[w:Hans J. Schütz|Hans J. Schütz]] aus dem Amerikanischen | Kommentar=englischsprachige Originalausgabe 1988 }}.</ref>
+:[1] „Die Leuchten auf der Empore brannten, und hinter den Oberlichtfenstern strahlte die Sonne -genügend Helle, um zu sehen, daß die Kleine, in einem Nest aus Decken hockend, eine ''Katze'' im Arm hielt, ihren Kater Adam.“<ref>{{Literatur | Autor=[[w:Franz Josef Degenhardt|Franz Josef Degenhardt]] | Titel=Für ewig und drei Tage | TitelErg=Roman | Auflage=1. | Verlag=Aufbau-Verlag | Ort=Berlin | Jahr=1999 | ISBN=3-351-02857-1 | Seiten=22 }}.</ref>
+:[1] „Zwei Kater stritten sich irgendwo auf den Dächern und der Wächter drehte sich um und bückte sich nach einem Stein, den er nach den ''Katzen'' werfen konnte.“<ref>{{Literatur | Autor=[[w:Cornelia Funke|Cornelia Funke]] | Titel=[[w:Tintenherz (Roman)|Tintenherz]] | TitelErg=Roman | Auflage=1. | Verlag=Cecilie Dressler Verlag | Ort=Hamburg | Jahr=2003 | ISBN=978-3-7915-0465-0 | Seiten=217 }}.</ref>
+:[1] „Die ''Katze'' war noch ein Kater gewesen, und sie hatten ihn, zu seinem eigenen Schutz, kastrieren lassen.“<ref>{{Literatur | Autor=[[w:Adolf Muschg|Adolf Muschg]] | Titel=Sutters Glück | Auflage=1. | Verlag=Suhrkamp Verlag | Ort=Frankfurt am Main | Jahr=2003 (Suhrkamp-Taschenbuch ; 3442) | ISBN=3-518-39942-X | Seiten=18 | Kommentar=Erstveröffentlichung 2001 }}.</ref>
+:[1] „Sie sitzt in Schlafanzug und Morgenmantel auf dem Sofa und spielt mit der ''Katze.'' Mittag ist vorbei. Die ''Katze'' ist jung, munter, übermütig. Lucy läßt den Morgenmantel vor ihrer Nase baumeln. Die ''Katze'' schlägt danach, schnelle, leichte Schläge mit der Pfote, eins-zwei-drei-vier. […] Sie schleudert den Gürtel zur Seite; die ''Katze'' springt danach.“<ref>{{Literatur | Autor=[[w:J. M. Coetzee|J. M. Coetzee]] | Titel=[[w:Schande (Roman)|Schande]] | TitelErg=Roman | Auflage=3. | Verlag=Fischer Taschenbuch Verlag | Ort=Frankfurt am Main | Jahr=2009 | ISBN=978-3-596-50951-5 | Seiten=193–194 | Originaltitel=Disgrace | Übersetzer=[[w:Reinhild Böhnke|Reinhild Böhnke]] aus dem Englischen | Kommentar=englischsprachige Originalausgabe 1999 }}.</ref>
+:[1] „Ihre drei ''Katzen'' rennen zwischen den Leitern herum.“<ref>{{Literatur | Autor=[[w:David Grossman|David Grossman]] | Titel=[[w:David_Grossman#„Eine Frau flieht vor einer Nachricht“|Eine Frau flieht vor einer Nachricht]] | TitelErg=Roman | Verlag=Fischer Taschenbuch Verlag | Ort=Frankfurt am Main | Jahr=2011 | ISBN=978-3-596-18430-9 | Seiten=539 | Originaltitel={{Hebr|אשה בורחת מבשורה}} | Übersetzer=[[w:Anne Birkenhauer|Anne Birkenhauer]] aus dem Hebräischen | Kommentar=hebräische Originalausgabe 2008 }}.</ref>
+:[1] „Als Nächstes kreuzte eine getigerte ''Katze'' auf. […] Die ''Katze'' betrat behutsam das welke Blumenbeet, urinierte hinein und schnupperte an dem Ergebnis.“<ref>{{Literatur | Autor=[[w:Haruki Murakami|Haruki Murakami]] | Titel=[[w:1Q84|1Q84]] | TitelErg=Buch 3. Roman | Auflage=1. | Verlag=DuMont | Ort=Köln | Jahr=2011 | ISBN=978-3-8321-9588-5 | Seiten=362 | Originaltitel=1Q84 | Übersetzer=[[w:Ursula Gräfe|Ursula Gräfe]] aus dem Japanischen | Kommentar=japanische Originalausgabe 2010 }}.</ref>
+:[1] „Man sagte, ihre einzige Lebensgefährtin sei eine seelenlose Dienerin gewesen, die Hunde und ''Katzen'' totschlug und jedes Tier, das ins Haus schlich, und die Leichen mitten auf die Straße warf, um das Dorfvolk mit dem Fäulnisgestank zu ärgern.“<ref>{{Literatur | Autor=[[w:Gabriel García Márquez|Gabriel García Márquez]] | Titel=Hundert Jahre Einsamkeit | Auflage=4. | Verlag=Fischer Taschenbuch Verlag | Ort=Frankfurt am Main | Jahr=2011 | ISBN=978-3-596-50981-2 | Seiten=347 | Originaltitel=Cien años de soledad | Übersetzer=[[w:Curt Meyer-Clason|Curt Meyer-Clason]] | Kommentar=spanischsprachige Originalausgabe 1967 }}.</ref>
+:[1] „Ich war erstaunt über die vielen ''Katzen,'' die man auf den Pariser Friedhöfen vorfand, die Gefährtinnen der toten Dichter, wie sie es zu deren Lebzeiten schon immer gewesen waren: […].“<ref>{{Literatur | Autor=[[w:Mathias Énard|Mathias Énard]] | Titel=Kompass | TitelErg=Roman | Verlag=Hanser Berlin im Carl Hanser Verlag | Ort=München | Jahr=2016 | ISBN=978-3-446-25315-5 | Seiten=307–308 | Originaltitel=Boussole | Übersetzer=Holger Fock und Sabine Müller aus dem Französischen | Kommentar=französische Originalausgabe 2015 }}.</ref>
+:[1] „Außerdem sind ''Katzen'' selbstsüchtige kleine Arschlöcher.“<ref>{{Literatur | Autor=[[w:Trevor Noah|Trevor Noah]] | Titel=Farbenblind | Auflage=2. | Verlag=Karl Blessing Verlag | Ort=München | Jahr=2017 | ISBN=978-3-89667-590-3 | Seiten=118 | Originaltitel=Born a Crime: Stories from a South African Childhood | Übersetzer=Heike Schlatterer aus dem Englischen | Kommentar=englischsprachige Originalausgabe 2016 }}.</ref>
+:[1] „Mila hatte sich auf das Mäuerchen gestellt. Sie versuchte, eine graue ''Katze'' einzufangen.“<ref>{{Literatur | Autor=[[w:Leïla Slimani|Leïla Slimani]] | Titel=Dann schlaf auch du | TitelErg=Roman | Auflage=1. | Verlag=btb Verlag | Ort=München | Jahr=2018 | ISBN=978-3-442-71742-2 | Seiten=135 | Originaltitel=Chanson douce | Übersetzer=Amelie Thoma aus dem Französischen | Kommentar=Genehmigte Taschenbuchausgabe; französische Originalausgabe 2016 }}.</ref>
+:[1] „Fabiola zuckte zusammen, als eine ''Katze'' kurz vor ihnen aus einer Hecke sprang und nach rechts über die Straße lief.“<ref>{{Literatur | Autor=Rainer Heuser | Titel=Ein einmaliger Kontakt | Auflage=1. | Verlag=RAM-Verlag | Ort=Lüdenscheid | Jahr=[2019] | ISBN=978-3-942303-83-5 | Seiten=72 }}.</ref>
+:[2] „Jede ''Katze'' werde im Jahr zwölf Junge werfen, die Ratten sich viermal so schnell vermehren.“<ref>{{Literatur | Autor=[[w:Lion Feuchtwanger|Lion Feuchtwanger]] | Titel=[[w:Erfolg (Roman)|Erfolg]] | TitelErg=Drei Jahre Geschichte einer Provinz | Band=Erster Band | Verlag=Querido Verlag | Ort=Amsterdam | Jahr=1934 | Seiten=338–339 | Online=Zitiert nach {{GBS|FkRJAAAAYAAJ|PA338|Hervorhebung=\"jede Katze werde im Jahr zwölf Junge\"}}; Erstausgabe bei Gustav Kiepenheuer, Berlin 1930 }}.</ref>
+:[2] „Ich muß lachen, wenn sich die Jungen unserer ''Katze'' Thusnelda balgen, […].“<ref>{{Literatur | Autor=[[w:Erwin Strittmatter|Erwin Strittmatter]] | Titel=[[w:Der Laden|Der Laden]] | Verlag=Aufbau-Verlag | Ort=Berlin/Weimar | Jahr=1983 | Seiten=193 }}.</ref>
+:[2] „»Vorsichtig, Kind«, sagte Frau Bardosz. »Die ''Katze'' wird bald Junge bekommen. Du kannst die Kleinen fühlen, wenn du deine Hand auf ihren Bauch legst.«“<ref>{{Literatur | Autor=[[w:Mirjam Pressler|Mirjam Pressler]] | Titel=[[w:Malka Mai|Malka Mai]] | TitelErg=Roman | Verlag=Beltz & Gelberg | Ort=Weinheim/Basel | Jahr=2001 | ISBN=978-3-407-80879-0 | Seiten=62 }}.</ref>
+:[3] „Wir sind jetzt im Gebiet der ''Katzen,'' Bären und Affen, das heißt im Murmeltiergebiet. ''Katzen'' werden die weiblichen, Bären die männlichen und Affen die jungen Murmeltiere genannt.“<ref>{{Literatur | Autor=Irene Prugger | Titel=Almgeschichten | TitelErg=Vom Leben nah am Himmel | Verlag=löwenzahn Verlag | Ort=Innsbruck | Jahr=2015 | ISBN=978-3-7066-2712-2 | Online=E-Book; zitiert nach {{GBS|urZ3DwAAQBAJ|PT131|Hervorhebung=Katzen}} }}.</ref>
+:[3] „Bei der Verteidigung des Reviers kämpfen Bären gegen Bären und ''Katzen'' gegen ''Katzen,'' wie die männlichen und weiblichen erwachsenen Murmata genannt werden.“<ref>{{Literatur | Autor=Franz Bamert | Titel=Abenteuerland Schweiz | TitelErg=Die besten Ausflüge für alle Jahreszeiten | Seiten=75 | Online=Zitiert nach {{GBS|XI6wDAAAQBAJ|PA75|Hervorhebung=Katzen}} }}.</ref>
+:[4] „Es riecht ja auch keine Blume und Blüte so, sondern in der Naturgeschichtsstunde haben wir es gehabt, daß manche Tiere es absondern aus gewissen Drüsen, Ratten, ''Katzen,'' die Zibetkatze, das Moschustier.“<ref>{{Literatur | Autor=[[w:Thomas Mann|Thomas Mann]] | Titel=[[w:Die Betrogene|Die Betrogene]] | TitelErg=Erzählung | Band=16.–20. Tausend | Verlag=S. Fischer Verlag | Ort=Frankfurt am Main | Jahr=1954 | Seiten=23 | Kommentar=Erstveröffentlichung 1953 }}.</ref>
+:[4] „Die kleine reizbare ''Katze'' [= ein junger Tiger] lag im Tierpark an den Stäben, zerriß und verschlang blutfrisches Fleisch, tappte nach dem Futterstock, folgte dem Wärter mit den Augen, gähnte gedankenlos.“<ref>{{Literatur | Autor=[[w:Uwe Johnson|Uwe Johnson]] | Titel=[[w:Das dritte Buch über Achim|Das dritte Buch über Achim]] | TitelErg=Roman | Band=[5. Auflage,] 21.–25. Tausend | Verlag=Suhrkamp Verlag | Ort=Frankfurt am Main | Jahr=1962 | Seiten=48 }}.</ref>
+:[4] „Demnach ist die Zahl der Gebiete, die von den größten ''Katzen'' der Erde bewohnt werden, seit 1995 um 40 Prozent zurückgegangen: Die Raubkatzen besiedeln jetzt nur noch sieben Prozent ihres ursprünglichen Verbreitungsgebiets, so der {{L|w:WWF|WWF}}-Mitarbeiter Roland Melisch.“<ref>{{Literatur | Titel=Tigerverbreitung deutlich kleiner | Sammelwerk=Spektrum.de | Tag=20 | Monat=7 | Jahr=2006 | Online=[https://www.spektrum.de/news/tigerverbreitung-deutlich-kleiner/845674 URL] | Zugriff=2020-03-20 }}.</ref>
+:[4] „Der Gepard ist ein Jäger der Extreme: Nicht nur schnell, sondern auch wendig muss er sein. Möglich macht es ein Innenohr, mit dem er unter allen ''Katzen'' heraussticht.“<ref>{{Literatur | Autor=Jan Dönges | Titel=Ein Innenohr für Hochgeschwindigkeitsjäger | Sammelwerk=Spektrum.de | Tag=6 | Monat=2 | Jahr=2018 | Online=[https://www.spektrum.de/news/ein-innenohr-fuer-hochgeschwindigkeitsjaeger/1539385 URL] | Zugriff=2020-03-20 }}.</ref>
+:[5] „Die Uhr ſchlägt drei. ‚Es iſt Zeit‘, ſagte er, ‚komm!‘ ſtreicht das Geld in meine ''Katze,'' ſteckt noch von dem ſeinigen dazu und ſchnallt ſie um.“<ref>{{Literatur | Autor=[[w:Louise von François|L. von Francois]] | Titel=Judith, die Kluswirthin | Herausgeber=[[w:Friedrich Wilhelm Hackländer|F. W. Hackländer]], [[w:Edmund Hoefer|Edmund Hoefer]] | Sammelwerk=Hausblätter | Band=Dritter Band | Verlag=Verlag von Adolph Krabbe | Ort=Stuttgart | Jahr=1862 | Seiten=426 | Online=Zitiert von {{GBS|8mhPAQAAMAAJ|PA426|Hervorhebung=Katze}} sowie [https://reader.digitale-sammlungen.de/de/fs1/object/goToPage/bsb11045184.html?pageNo=434 Digitalisat] des [[w:Münchener Digitalisierungszentrum|MDZ]] }}.</ref>
+:[6] „Nun sah er meine heiße, feuchte, rasierte ''Katze.'' Seine Hände fassten sofort nach meinen Oberschenkeln.“<ref>{{Literatur | Autor=Helena Zauber | Titel=Die unglaubliche Geschichte von Ivonne und Friedhelm, der richtig Erich hieß | TitelErg=Eine erotische Abenteuer Geschichte, frei nach einer wahren Begebenheit | Verlag=neobooks | Ort=München | Jahr=2014 | ISBN=978-3-8476-1238-4 | Online=E-Book; zitiert nach {{GBS|KdCbBAAAQBAJ|PT14|Hervorhebung=Katze}} }}.</ref>
+:[7] „Aber ''Katze,'' wer ſagt denn, daß du das gethan hätteſt! Du biſt ja eine reizende ''Katze.''“<ref>{{Literatur | Autor=[[w:Peter Rosegger|Peter Roſegger]] | Titel=[[w:Weltgift|Weltgift]] | TitelErg=Roman | Band=Vierzehntes Tauſend | Verlag=Verlag von L. Staackmann | Ort=Leipzig | Jahr=1903 | Seiten=144 | Online=Zitiert nach {{IA|weltgift00rosegoog/page/n152/mode/1up|FB}} }}.</ref>
+:[7] „Du bist ja wahnsinnig, du tolle ''Katze.''“<ref>{{Literatur| Autor=[[w:Franz Kafka|Franz Kafka]]; mit einem Nachwort von [[w:Max Brod|Max Brod]] | Titel=[[w:Amerika_(Roman)|Amerika]] | TitelErg=Roman | Verlag=Kurt Wolff Verlag | Ort=München | Jahr=1927 | Seiten=[91] | Online=Zitiert nach [https://digital.ub.uni-duesseldorf.de/ihd/content/pageview/1307956 Digitalisat] der [[w:Universitäts- und Landesbibliothek Düsseldorf|ULB Düsseldorf]] }}.</ref>
+:[7] „Die Thibaut! Die kleine ''Katze'' mit ihren Schlitzaugen und dem galligen Teint.“<ref>{{Literatur | Autor=[[w:Hans Fallada|Hans Fallada]] | Titel=Junger Herr – ganz groß | TitelErg=Roman | Auflage=1. | Verlag=Ullstein Verlag | Ort=Frankfurt am Main/Berlin | Jahr=1965 | Seiten=15 | Online=Zitiert nach {{GBS|ZZYlAAAAMAAJ|PA15|Hervorhebung=Thibaut+Katze}} }}.</ref>
+:[8] „Die ſchmucke ''Katze'' hält mich für verrückt!“<ref>{{Literatur | Autor=Julius Roſen [Pseudonym von Nikolaus Duffek] | Titel=Deutſcher Krieg | TitelErg=Luſtspiel in 3 Akten | Sammelwerk=Geſammelte Dramatiſche Werke | Band=Neunter Band | Verlag=Eduard Bloch | Ort=Berlin | Jahr=[1877] | Seiten=62 | Online=Zitiert nach {{GBS|35l-jF0Uct0C|PA62|Hervorhebung=Katze}} }}.</ref>
+:[8] „Lizzie war ſo viel unbeſchwerter. Ja, wie eine luſtige ''Katze'' erſchien ſie Grete Erb, eine ''Katze,'' die geſtreichelt werden wollte und die Krallen wies, wenn man nicht nach ihrem Willen tat.“<ref>{{Literatur | Autor=[[w:Grete von Urbanitzky|Grete von Urbanitzky]] | Titel=Der wilde Garten | TitelErg=Roman | Verlag=Hesse & Becker Verlag | Ort=Leipzig | Jahr=1927 | Seiten=69 | Online=Zitiert nach {{GBS|lp_PAAAAMAAJ|PA69|Hervorhebung=Katze}} sowie [http://www.literature.at/viewer.alo?objid=21737&viewmode=fullscreen&rotate=&scale=2&page=68 Digitalisat] des [[w:Austrian Literature Online|ALO]] }}.</ref>
+:[9] {{Beispiele fehlen}}
+
+{{Redewendungen}}
+:[1] [[abgehen wie Schmidts Katze|abgehen wie Schmidts ''Katze'']]
+:[1] [[auch wenn es Katzen schneit|auch wenn es ''Katzen'' schneit]]<ref name=\"Küpper\"/>
+:[1] [[Augen auskratzen wie eine Katze|Augen auskratzen wie eine ''Katze'']]
+:[1] [[Augen machen wie die Katze, wenn es donnert|Augen machen wie die ''Katze,'' wenn es donnert]]<ref name=\"Küpper\"/> / [[ein Gesicht wie die Katze, wenn es donnert|ein Gesicht machen wie die ''Katze,'' wenn es donnert]]<ref name=\"Küpper\"/>
+:[1] [[aussehen wie die Katze unterm Bauch|aussehen wie die ''Katze'' unterm Bauch]]<ref name=\"Küpper\"/>
+:[1] [[aussehen wie eine abgezogene Katze|aussehen wie eine abgezogene ''Katze'']]<ref name=\"Küpper\"/>
+:[1] [[blass wie die Katze am Bauch|blass wie die ''Katze'' am Bauch]]<ref name=\"Küpper\"/>
+:[1] [[da beißt sich die Katze in den Schwanz|da beißt sich die ''Katze'' in den Schwanz]]
+:[1] [[da wird die Katze in der Pfanne verrückt|da wird die ''Katze'' in der Pfanne verrückt]]<ref name=\"Küpper\"/>
+:[1] [[damit kann man keine Katze mehr hinter dem Ofen hervorlocken|damit kann man keine ''Katze'' mehr hinter dem Ofen hervorlocken]] / [[damit lockt man keine Katze hinterm Ofen hervor|damit lockt man keine ''Katze'' hinterm Ofen hervor]]<ref name=\"Küpper\"/> / [[das lockt keine Katze unter der Zentralheizung hervor|das lockt keine ''Katze'' unter der Zentralheizung hervor]]<ref name=\"Küpper\"/>
+:[1] [[dann ist die Katze aber auch tot|dann ist die ''Katze'' aber auch tot]]<ref name=\"Küpper\"/>
+:[1] [[das Ei hat die Katze gelegt|das Ei hat die ''Katze'' gelegt]]<ref name=\"Küpper\"/>
+:[1] [[das hat die Katze gefressen|das hat die ''Katze'' gefressen]]
+:[1] [[das trägt die Katze auf dem Schwanz fort|das trägt die ''Katze'' auf dem Schwanz fort]] / [[das trägt die Katze auf dem Schwanz weg|das trägt die ''Katze'' auf dem Schwanz weg]]
+:[1] [[dastehen wie die Katze vor dem neuen Scheunentor|dastehen wie die ''Katze'' vor dem neuen Scheunentor]]<ref name=\"Küpper\"/>
+:[1] [[der Katze den Schwanz abhacken|der ''Katze'' den Schwanz abhacken]]<ref name=\"Küpper\"/>
+:[1] [[der Katze die Schelle anhängen|der ''Katze'' die Schelle anhängen]]<ref name=\"Küpper\"/> / [[der Katze die Schelle umbinden|der ''Katze'' die Schelle umbinden]] / [[der Katze die Schelle umhängen|der ''Katze'' die Schelle umhängen]]
+:[1] [[die Katze aus dem Sack lassen|die ''Katze'' aus dem Sack lassen]]
+:[1] [[die Katze durch den Bach schleifen|die ''Katze'' durch den Bach schleifen]]<ref name=\"Küpper\"/> / [[die Katze durch den Bach ziehen|die ''Katze'' durch den Bach ziehen]]<ref name=\"Küpper\"/>
+:[1] [[die Katze guckt den Kaiser an|die ''Katze'' guckt den Kaiser an]]<ref name=\"Küpper\"/>
+:[1] [[die Katze im Sack kaufen|die ''Katze'' im Sack kaufen]]
+:[1] [[die Katze im Sack lassen|die ''Katze'' im Sack lassen]]<ref name=\"Küpper\"/>
+:[1] [[die Katze ist aus dem Sack|die ''Katze'' ist aus dem Sack]]<ref name=\"Küpper\"/>
+:[1] [[die Katze ist den Baum rauf|die ''Katze'' ist den Baum rauf]]<ref name=\"Küpper\"/>
+:[1] [[die Katzen gähnen|die ''Katzen'' gähnen]]<ref name=\"Küpper\"/>
+:[1] [[etwas der Katze in die Schuhe schieben|etwas der ''Katze'' in die Schuhe schieben]]<ref name=\"Küpper\"/>
+:[1] [[flink wie eine Katze sein|flink wie eine ''Katze'' sein]]
+:[1] [[für die Katz sein|für die ''Katz'' sein]] / [[für die Katze sein|für die ''Katze'' sein]]<ref name=\"Küpper\"/>
+:[1] [[herumgehen wie die Katze um den heißen Brei|(um etwas) herumgehen wie die ''Katze'' um den heißen Brei]] / [[(um etwas) herumschleichen wie die Katze um den heißen Brei|herumschleichen wie die ''Katze'' um den heißen Brei]]
+:[1] [[herumreden wie die Katze um den heißen Brei|herumreden wie die ''Katze'' um den heißen Brei]]
+:[1] [[hinter jemandem herlaufen wie Katzen hinter Baldrian|hinter jemandem herlaufen wie ''Katzen'' hinter Baldrian]]<ref name=\"Küpper\"/>
+:[1] [[immer noch besser als die Katze im Arsch geleckt|immer noch besser als die ''Katze'' im Arsch geleckt]]<ref name=\"Küpper\"/>
+:[1] {{schweiz.|:}} [[jemandem die Katze den Buckel hinaufjagen|jemandem die ''Katze'' den Buckel hinaufjagen]]
+:[1] [[jemand kann die Katze am Arsch lecken|jemand kann die ''Katze'' am Arsch lecken]]<ref name=\"Küpper\"/>
+:[1] [[Katzen regnen|''Katzen'' regnen]]<ref name=\"Küpper\"/> / [[Katzen und Hunde regnen|''Katzen'' und Hunde regnen]]
+:[1] [[keine Katze aus dem Haus jagen|keine ''Katze'' (mehr) aus dem Haus jagen]] / [[keine Katze aus dem Haus schicken|keine ''Katze'' (mehr) aus dem Haus schicken]]
+:[1] [[keine Katze im Sack verkaufen|keine ''Katze'' im Sack verkaufen]]<ref name=\"Küpper\"/>
+:[1] [[leck die Katze am Ärmel|leck die ''Katze'' am Ärmel]]!<ref name=\"Küpper\"/>
+:[1] [[leben wie Hund und Katze|leben wie Hund und ''Katze'']] / [[zusammenleben wie Katze und Hund|zusammenleben wie ''Katze'' und Hund]]<ref name=\"Küpper\"/>
+:[1] [[lieber will ich deine Katze im Arsch lecken|lieber will ich deine ''Katze'' im Arsch lecken]]!<ref name=\"Küpper\"/>
+:[1] [[mit jemandem Katz und Maus spielen|mit jemandem ''Katz'' und Maus spielen]]
+:[1] [[nach der Katze treten|nach der ''Katze'' treten]]
+:[1] [[nass wie eine gebadete Katze|nass wie eine gebadete ''Katze'']]<ref name=\"Küpper\"/> / [[nass wie eine Katze|nass wie eine ''Katze'']]<ref name=\"Küpper\"/>
+:[1] [[neunschwänzige Katze|neunschwänzige ''Katze'']]
+:[1] [[raus mit der wilden Katze|raus mit der wilden ''Katze'']]<ref name=\"Küpper\"/>
+:[1] [[schauen wie eine nasse Katze|schauen wie eine nasse ''Katze'']]
+:[1] [[sich stehen wie Hund und Katze|sich (mit jemandem) stehen wie Hund und ''Katze'']]
+:[1] [[sieben Leben haben wie eine Katze|sieben Leben haben wie eine ''Katze'']]
+:[1] [[stehlen wie eine Katze|stehlen wie eine ''Katze'']]<ref name=\"Küpper\"/>
+:[1] [[tote Katze spielen|tote ''Katze'' spielen]]<ref name=\"Küpper\"/>
+:[1] [[und wenn es Katzen hagelt|und wenn es ''Katzen'' hagelt]]<ref name=\"Küpper\"/>
+:[1] [[wie eine Katze immer auf die eigenen Füße fallen|wie eine ''Katze'' immer auf die eigenen Füße fallen]]
+:[1] [[wie Hund und Katze sein|wie Hund und ''Katze'' sein]]
+
+{{Sprichwörter}}
+:[1] [[bei Nacht sind alle Katzen grau|bei Nacht sind alle ''Katzen'' grau]] / [[in der Nacht sind alle Katzen grau|in der Nacht sind alle ''Katzen'' grau]] / [[nachts sind alle Katzen grau|nachts sind alle ''Katzen'' grau]]
+:[1] [[die Katze lässt das Mausen nicht|die ''Katze'' lässt das Mausen nicht]]
+:[1] [[käm eine Katze ins Morgenland, sie würde miauen, wie es hier bekannt|käm eine ''Katze'' ins Morgenland, sie würde miauen, wie es hier bekannt]]
+:[1] [[wenn die Katze aus dem Haus ist, tanzen die Mäuse auf dem Tisch|wenn die ''Katze'' aus dem Haus ist, tanzen die Mäuse auf dem Tisch]] / [[wenn die Katze aus dem Haus ist, tanzen die Mäuse|wenn die ''Katze'' aus dem Haus ist, tanzen die Mäuse]]
+::[[ist die Katze aus dem Haus, freut sich die Maus|ist die ''Katze'' aus dem Haus, freut sich die Maus]]
+::[[ist die Katze aus dem Haus, rührt sich die Maus|ist die ''Katze'' aus dem Haus, rührt sich die Maus]]
+::[[ist die Katze aus dem Haus, tanzen die Mäuse auf dem Tisch|ist die ''Katze'' aus dem Haus, tanzen die Mäuse auf dem Tisch]] / [[ist die Katze aus dem Haus, tanzen die Mäuse|ist die ''Katze'' aus dem Haus, tanzen die Mäuse]]
+::[[wenn die Katze fort ist, tanzen die Mäuse|wenn die ''Katze'' fort ist, tanzen die Mäuse]]
+
+{{Charakteristische Wortkombinationen}}
+:[1, 2] ''im [[Nominativ]]:'' [[eine#Artikel|eine]] ''Katze'' [[beißen|beißt]], [[buckeln|buckelt]], [[fauchen|faucht]], [[fressen|frisst]], [[jagen|jagt]], [[kratzen|kratzt]], [[läppern|läppert]] ([[Milch]]), [[lauern|lauert]], [[lecken|leckt]], [[maunzen|maunzt]], [[mausen|maust]], [[mauzen|mauzt]], [[miauen|miaut]], [[räkeln|räkelt sich]], [[riechen|riecht]], [[schlecken|schleckt]], [[schleichen|schleicht]] / [[herumschleichen|schleicht herum]] / [[umherschleichen|schleicht umher]], [[anschleichen|schleicht sich an]], [[schmusen|schmust]], [[schnuppern|schnuppert]], [[schnurren|schnurrt]], [[sitzen|sitzt]], [[springen|springt]], [[streunen|streunt]] / [[herumstreunen|streunt herum]] / [[umherstreunen|streunt umher]]; [[eine#Artikel|eine]] ''Katze'' [[zulaufen|läuft jemandem zu]], [[weglaufen|läuft weg]], [[verschwinden|verschwindet]]; ''Katzen'' [[balgen|balgen sich]], [[ranzen]]
+:[1, 2] ''im [[Akkusativ]]:'' [[eine#Artikel|eine]] ''Katze'' [[einfangen]], [[einschläfern]], [[fangen]], [[füttern]], [[jagen]], [[kastrieren]], [[kaufen]], [[kören]], [[kraulen]], [[retten]], [[streicheln]], [[töten]], [[versorgen]]; [[sich]] [[eine#Artikel|eine]] ''Katze'' [[anschaffen]], [[zulegen]]; [[sich]] [[um#Deutsch|um]] [[eine#Artikel|eine]] ''Katze'' [[kümmern]]
+:[1, 2] ''mit [[adjektivisch]]em [[Attribut]]:'' [[eine#Artikel|eine]] [[alt]]e, [[jung]]e ''Katze;'' [[eine#Artikel|eine]] [[ausgesetzt]]e, [[heimatlos]]e, [[herrenlos]]e, [[streunend]]e, [[wildernd]]e ''Katze;'' [[eine#Artikel|eine]] [[dick#Deutsch|dicke]], [[fett]]e, [[verwöhnte]] ''Katze;'' [[eine#Artikel|eine]] [[entlaufen]]e, [[zugelaufen]]e ''Katze;'' [[eine#Artikel|eine]] [[gefleckt]]e ({{Audio|De-eine gefleckte Katze.ogg|Audio}}), [[gestreift]]e, [[getigert]]e, [[grau]]e, [[schwarz]]e ''Katze;'' [[eine#Artikel|eine]] [[geschmeidig]]e, [[gesund]]e ''Katze;'' [[eine#Artikel|eine]] [[klein]]e, [[riesig]]e ''Katze;'' [[eine#Artikel|eine]] [[krank]]e, [[räudig]]e ''Katze;'' [[eine#Artikel|eine]] [[lieb]]e, [[wild#Deutsch|wilde]] ''Katze;'' [[eine#Artikel|eine]] [[mager]]e ''Katze''; [[eine#Artikel|eine]] [[niedlich]]e, [[schön]]e ''Katze;'' [[eine#Artikel|eine]] [[teuer|teure]], [[wertvoll]]e ''Katze''
+:[1] [[Schrödingers Katze|Schrödingers ''Katze'']]
+:[2] [[eine#Artikel|eine]] [[raunzig]]e, [[rollig]]e, [[trächtig]]e ''Katze;'' [[eine#Artikel|eine]] ''Katze'' [[laufen|läuft]] [[trächtig]]; [[eine#Artikel|eine]] ''Katze'' [[werfen|wirft]] [[Junges|Junge]]
+:[7] [[eine#Artikel|eine]] [[alt]]e, [[boshaft]]e, [[falsch]]e, [[klein]]e, [[gefährlich]]e, [[richtig]]e ''Katze'' [[sein#Verb, Hilfsverb|sein]]
+
+{{Wortbildungen}}
+:[1] ''[[Adjektiv]]:'' [[katzenfreundlich]]
+:[1, 4] ''[[Adjektiv]]e:'' [[katzenartig]], [[katzenhaft]]
+:[1] [[Katzenallergie]], [[Katzenauge]], [[Katzenbaby]], [[Katzenbaum]],<!--(Kratzbaum) das kann man dann unter Katzenbaum bzw. Kratzbaum schreiben --> [[Katzenbesitzer]], [[Katzenbuckel]], [[Katzendreck]], [[Katzenfell]], [[Katzenfutter]], [[Katzengold]], [[Katzengras]], [[Katzenhaar]], [[Katzenhai]], [[Katzenhalter]], [[Katzenhasser]], [[Katzenjammer]], [[Katzenjunges]], [[Katzenkiste]], [[Katzenklappe]], [[Katzenklee]], [[Katzenklo]], [[Katzenkonzert]], [[Katzenkopfpflaster]], [[Katzenleukose]], [[Katzenliebhaber]], [[Katzenminze]], [[Katzenmusik]], [[Katzennarr]], [[Katzenpfote]], [[Katzenschnupfen]], [[Katzenschrei-Syndrom]], [[Katzensilber]], [[Katzensprung]], [[Katzenstreu]], [[Katzentisch]], [[Katzenvideo]], [[Katzenwäsche]], [[Katzenzunge]], [[Weltkatzentag]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|Ü-links=
+*{{af}}: [1, 2, 4, 7, 8] {{Ü|af|kat}}; [2] {{Ü|af|wyfiekat}} / {{Ü|af|wyfieskat}}; [6] {{Ü|af|poes}}
+*{{egy}}:
+**[[w:Mittelägyptische Sprache|Mittelägyptisch]]: [1] ''Gattungsname:'' [[𓏇𓇋𓅱𓄛|<hiero>W19-M17-G43-F27</hiero>]]<ref name=\"WbäS42\"/> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-w-<[[w:Determinativ|Determinativ]] für „Säugetier“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjw;<ref name=\"WbäS42\"/> <small>Huehnergard:</small> miw<ref name=\"Huehnergard\"/>) {{m}} / [[𓏇𓇋𓅱𓃱|<hiero>W19-M17-G43-E13</hiero>]]<ref name=\"WbäS42\"/> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-w-<[[w:Determinativ|Determinativ]] für „Katze“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjw;<ref name=\"WbäS42\"/> <small>Huehnergard:</small> miw<ref name=\"Huehnergard\"/>) {{m}}; [2] <hiero>W19-M17-M17-X1:F27</hiero><ref name=\"WbäS42\"/><ref name=\"KoptHWB25\">{{Literatur | Autor=Wilhelm Spiegelberg | Titel=Koptisches Handwörterbuch | Verlag=Carl Winters Universitätsbuchhandlung | Ort=Heidelberg | Jahr=1921 | Seiten=25 }}.</ref> (<small>[[w:Gardiner-Liste|Gardiner]]:</small> mj-j-j-t-<[[w:Determinativ|Determinativ]] für „Säugetier“>; <small>[[w:Adolf Erman|Erman]], [[w:Hermann Grapow|Grapow]]:</small> mjt;<ref name=\"WbäS42\"/> <small>[[w:Wilhelm Spiegelberg|Spiegelberg]]</small> ʾmʾj·t<ref name=\"KoptHWB25\"/>) {{f}}
+**[[w:Demotische Sprache|Demotisch]]: [1] … (my) {{m}};<ref name=\"CDD\">{{Literatur | Herausgeber=Janet H. Johnson | Titel=The Demotic Dictionary of the Oriental Institute of the University of Chicago | Band=Band 11: N | Verlag=The Oriental Institute of the University of Chicago | Ort=Chicago (Illinois) | Jahr=©2001 | Seiten=66–67 | Online=[http://oi.uchicago.edu/sites/oi.uchicago.edu/files/uploads/shared/docs/CDD_M.pdf#page=52 URL: PDF 11 MB] | Zugriff=2020-03-20 }}.</ref> [2] … (my[.t]) {{f}}<ref name=\"CDD\"/>
+*{{sq}}: [1] {{Ü|sq|mace}} {{f}}
+*{{am}} <small>([https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=vsytndbyev B&D])</small>: [1] {{Üt|am|ድመት|dəmmät}}
+*{{ar|DMG}}:
+**{{MHA}}: [1] ''Gattungsname:'' {{Üxx4|ar|بس|v=بَسّ|d=bass|DMG=0}} {{m}}, {{Üxx4|ar|DMG=0|d=qiṭṭ|v=قِطّ|قط}} {{m}}, {{Üxx4|ar|DMG=0|d=hirr|v=هِرّ|هر}} {{m}}; [2] {{Üxx4|ar|بسة|v=بَسَّة|d=bassa|DMG=0}} {{f}}, {{Üxx4|ar|DMG=0|d=qiṭṭa|v=قِطَّة|قطة}} {{f}}, {{Üxx4|ar|DMG=0|d=hirra|v=هِرَّة|هرة}} {{f}}; [4] {{Üxx4|ar|سنور|v=سِنَّوْر|d=sinnawr|DMG=0}} {{m}}
+**[[w:Maghrebinisches Arabisch|Maghrebinisches Arabisch]]:
+***{{ary}}: [1] {{Üxx4|ar|قط|v=قَطّ، قِطّ|d=qaṭṭ, qiṭṭ; ''mundartnah:'' qeṭṭ|DMG=0}} {{m}}, {{Üxx4|ar|مش|v=مَشّ، مُشّ|d=mašš, mušš; ''mundartnah:'' mešš, mošš|DMG=0}} {{m}}; [2] {{Üxx4|ar|قطة|v=قَطَّة، قِطَّة|d=qaṭṭa, qiṭṭa; ''mundartnah:'' qeṭṭa|DMG=0}} {{f}}, {{Üxx4|ar|مشة|v=مَشَّة|d=mašša; ''mundartnah:'' mešša|DMG=0}} {{f}}
+***{{aeb}}: [1] {{Üxx4|ar|قطوس|v=قَطُّوس|d=qaṭṭūs; ''mundartnah:'' gaṭṭūs|DMG=0}} {{m}}; [2] {{Üxx4|ar|قطوسة|v=قَطُّوسَة|d=qaṭṭūsa; ''mundartnah:'' gaṭṭūsa|DMG=0}} {{f}}
+***{{ayl}}: [1] {{Üxx4|ar|قطوس|v=قَطُّوس|d=qaṭṭūs; ''mundartnah:'' gaṭṭūs|DMG=0}} {{m}}; [2] {{Üxx4|ar|قطوسة|v=قَطُّوسَة|d=qaṭṭūsa; ''mundartnah:'' gaṭṭūsa|DMG=0}} {{f}}
+**[[w:Tschadisch-Arabisch|Tschadisch-Arabisch]]: [1] {{Üxx4|ar|بس|v=بِسّ|d=biss|DMG=0}} {{m}}, {{Üxx4|ar|بطو|v=بَطُو|d=baṭū; ''mundartnah:'' batū|DMG=0}} {{m}}, {{Üxx4|ar|كديس|v=كَدِيس|d=kadīs|DMG=0}} {{m}}; [2] {{Üxx4|ar|بسة|v=بِسَّة|d=bissa; ''mundartnah:'' bisse|DMG=0}} {{f}}, {{Üxx4|ar|بطو|v=بَطُو|d=baṭū; ''mundartnah:'' batū|DMG=0}} {{m}}
+**[[w:Sudanesisch-Arabisch|Sudanesisch-Arabisch]]: [1] {{Üxx4|ar|كديس|v=كَدِيس|d=kadīs|DMG=0}} {{m}}
+**{{arz}}: [1] {{Üxx4|ar|قط|v=قُطّ|d=quṭṭ; ''mundartnah:'' ʾuṭṭ|DMG=0}} {{m}}; [2] {{Üxx4|ar|قطة|v=قُطَّة|d=quṭṭa; ''mundartnah:'' ʾuṭṭa|DMG=0}} {{f}}
+**[[w:en:Levantine Arabic|Levantinisches Arabisch]]:
+***[[w:Palästinensisch-Arabisch|Palästinensisch-Arabisch]]: [1] {{Üxx4|ar|بس|v=بِسّ|d=biss|DMG=0}} {{m}}, {{Üxx4|ar|DMG=0|d=quṭṭ; ''mundartnah: städtisch zumeist nur:'' ʾuṭṭ, ''beduinisch sowie in Nazareth, Ostjerusalem:'' guṭṭ, ''fellachisch:'' kuṭṭ|v=قُطّ|قط}} {{m}}; [2] {{Üxx4|ar|بسة|v=بِسَّة|d=bissa; ''mundartnah:'' bisse|DMG=0}} {{f}}, {{Üxx4|ar|DMG=0|d=quṭṭa; ''mundartnah:'' quṭṭe, ''städtisch zumeist nur:'' ʾuṭṭe, ''beduinisch sowie in Nazareth, Ostjerusalem:'' guṭṭe, ''fellachisch:'' kuṭṭe|v=قُطَّة|قطة}} {{f}}
+***[[w:Libanesisch-Arabisch|Libanesisch-Arabisch]]: [1] {{Üxx4|ar|بسين|v=بُسَيْن|d=busayn; ''mundartnah:'' bseyn|DMG=0}} {{m}}; [2] {{Üxx4|ar|بسينة|v=بُسَيْنَة|d=busayna; ''mundartnah:'' bseyne|DMG=0}} {{f}}
+***[[w:Syrisch-Arabisch|Syrisch-Arabisch]]: [1] {{Üxx4|ar|DMG=0|d=qaṭṭ, ''städtisch zumeist nur:'' ʾaṭṭ|v=قَطّ|قط}} {{m}}; [2] {{Üxx4|ar|DMG=0|d=qaṭṭa; ''mundartnah:'' qaṭṭe, ''städtisch zumeist nur:'' ʾaṭṭe, ʾaṭṭi|v=قَطَّة|قطة}} {{f}}
+**[[w:Irakisch-Arabisch|Irakisch-Arabisch]]: [1] {{Üxx4|ar|بزون|v=بَزُّون|d=bazzūn|DMG=0}} {{m}}; [2] {{Üxx4|ar|بزونة|v=بَزُّونَة|d=bazzūna|DMG=0}} {{f}}
+**[[w:en:Gulf Arabic|Golf-Arabisch]]: [1] {{Üxx4|ar|قطو|v=قَطُو|d=qaṭū; ''mundartnah:'' gaṭu, gaṭo|DMG=0}} {{m}}; [2] {{Üxx4|ar|قطوة|v=قَطْوَة|d=qaṭwa; ''mundartnah:'' gaṭwa}} {{f}}
+**[[w:en:Yemeni Arabic|Jemenitisch-Arabisch]]: [1] {{Üxx4|ar|بسم|v=بَسَم|d=basam|DMG=0}} {{m}}, {{Üxx4|ar|حسن|v=حُسَن|d=ḥusan|DMG=0}} {{m}}, {{Üxx4|ar|دم|v=دِمّ، دُمّ|d=dimm, dumm|DMG=0}} {{m}}, {{Üxx4|ar|عري|v=عِرِّي، عُرِّي|d=ʿirrī, ʿurrī|DMG=0}} {{m}}, {{Üxx4|ar|عسان|v=عُسَان|d=ʿusān|DMG=0}} {{m}}, {{Üxx4|ar|عسني|v=عُسْنِي|d=ʿusnī|DMG=0}} {{m}}, {{Üxx4|ar|نسم|v=نَسَم|d=nasam|DMG=0}} {{m}}
+*{{hy}} <small>([[w:Armenisches_Alphabet#Buchstaben|DIN 32706]])</small>: [1] {{Üt|hy|կատու|katow}}; [2] {{Üt|hy|էգ կատու|êg katow}}
+*{{az}}: [1] {{Ü|az|pişik}}
+*{{ast}}: [1] {{Ü|ast|gatu}} {{m}}; [2] {{Ü|ast|gata}} {{f}}
+*{{ba}} <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|ba|бесәй|besäj}}
+*{{eu}}: [1] {{Ü|eu|katu}}
+*{{my}} <small>(ALA-LC)</small>: [1] {{Üt|my|ကြောင်|kroṅ‘}}; [2] {{Üt|my|ကြောင်မ|kroṅ‘ma}}
+*{{bs}}: [1, 2] {{Üt|bs|мачка|mačka}} {{f}}
+*{{br}}: [1] {{Ü|br|kazh}} {{m}}
+*{{bg}}: [1, 2] {{Üt|bg|котка|kotka}} {{f}}
+*{{zh}}:
+**[[Hochchinesisch]]/[[Mandarin]] <small>([[w:Pinyin|Pinyin]])</small>: [1] ''traditionelle Schreibweise:'' {{Üt|zh|貓|māo}} / ''vereinfachte Schreibweise:'' {{Üt|zh|猫|māo}}
+**{{yue}} <small>([[w:Jyutping|Jyutping]])</small>: [1] ''traditionelle Schreibweise:'' {{Üt|yue|貓|maau<sup>1</sup>}} / ''vereinfachte Schreibweise:'' {{Üt|yue|猫|maau<sup>1</sup>}}
+*{{da}}: [1, 4] {{Ü|da|kat}} {{u}}; [2] {{Ü|da|hunkat}} {{u}}
+*{{en}}: [1, 4, 7] {{Ü|en|cat}}; [2] {{Ü|en|queen}}, {{Ü|en|she-cat}}; [4] {{Ü|en|feline}}; [5] {{Ü|en|purse}}; [6] {{Ü|en|pussy}}; [7, 9] {{Ü|en|bitch}}
+*{{eo}}: [1] {{Ü|eo|kato}}
+*{{et}}: [1] {{Ü|et|kass}}
+*{{fo}}: [1, 2] {{Ü|fo|ketta}} {{f}}
+*{{fi}}: [1, 2, 4] {{Ü|fi|kissa}}
+*{{fr}}: [1, 4, 6] {{Ü|fr|chat}} {{m}}; [2, 6] {{Ü|fr|chatte}} {{f}}; [4] {{Ü|fr|félidé}} {{m}}, {{Ü|fr|félin}} {{m}}; [5] ''je nach Kontext:'' {{Ü|fr|aumônière}} {{f}}, {{Ü|fr|bougette}} {{f}}, {{Ü|fr|bourse}} {{f}}, {{Ü|fr|porte-monnaie}} {{m}}; [7] ''leichte Frau:'' {{Ü|fr|chienne}} {{f}}; ''unaufrichtige, falsche, hinterhältige Frau:'' {{Ü|fr|vipère}} {{f}}; ''zänkische Frau:'' {{Ü|fr|chipie}} {{f}}, {{Ü|fr|furie}} {{f}}, {{Ü|fr|mégère}} {{f}}; [8] ''Kanada:'' {{Ü|fr|minoune}} {{f}}; [9] {{Ü|fr|gigolette}} {{f}}, {{Ü|fr|ribaude}} {{f}}, {{Ü|fr|rôdeuse}} {{f}}
+*{{fur}}: [1, 4] {{Ü|fur|gjat}} {{m}}; [2] {{Ü|fur|gjate}} {{f}}; [4] {{Ü|fur|felin}} {{m}}
+*[[Friesisch]]:
+**[[w:Ostfriesische Sprache|Ostfriesisch]]:
+***{{stq}}: [1] {{Ü|stq|Kat}} {{m}}
+***[[w:Wangerooger Friesisch|Wangerooger Friesisch]]: [1] {{Ü|frs|kat}} {{m}}<ref>{{Literatur | Autor=[[w:Heinrich Georg Ehrentraut|H. G. Ehrentraut]] | Titel=Ⅹ. Mittheilungen aus der Sprache der Wangeroger | TitelErg=ⅩⅤ. Verzeichniß von Subſtantiven | Sammelwerk=Frieſiſches Archiv | WerkErg=Eine Zeitſchrift für frieſiſche Geſchichte und Sprache | Band=Erſter Band | Verlag=Schnellpreſſendruck und Verlag der Schulzeſchen Buchhandlung | Ort=Oldenburg | Jahr=1849 | Seiten=374 | Online=Zitiert nach {{GBS|a18AAAAAcAAJ|PA374|Hervorhebung=kat+Katze}} }}.</ref>
+**{{fy}}: [1] {{Ü|fy|kat}} {{u}}
+*{{gl}}: [1] {{Ü|gl|gato}} {{m}}; [2] {{Ü|gl|gata}} {{f}}; [4] {{Ü|gl|félido}} {{m}}, {{Ü|gl|felino}} {{m}}
+*{{ka}} <small>([[w:Georgisches_Alphabet#Umschrift|DIN 32707:2010-01]])</small>: [1] {{Üt|ka|კატა|kata}}; [2] {{Üt|ka|ძუ კატა|ju kata}}
+*{{gez}} <small>([https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=vsytndbyev B&D])</small>: [1] {{Üt|gez|ድመት|dəmmät}}
+*{{gr}}:
+**{{grc}}: [1] {{Üt|grc|αἴλουρος}} {{m}}; [2] {{Üt|grc|αἰλουρίς}} {{f}}
+**[[Mittelgriechisch]]: [1] {{Üt|grc|κάττος|kattos}} {{m}}; [2] {{Üt|grc|κάττα|katta}} {{f}}
+**{{el|iU}}: [1, 2] {{Üt|el|γάτα|gáta}} {{f}}; [4] {{Üt|el|αιλουρίδας|ailourídas}}
+*{{kl}}: [1] {{Ü|kl|qitsuk}}
+*{{ht}}: [1, 2, 4, 6] {{Ü|ht|chat}}
+*{{haw}}: [1] {{Ü|haw|pōpoki}}
+*{{he|CHA}}: [1, 4] {{Üxx4|he|חתול|v=חָתוּל|d=ḥāṯū́l|CHA=0}} {{m}}; [2] {{Üxx4|he|חתולה|v=חֲתוּלָה|d=ḥ<sup>a</sup>ṯūlā́|CHA=0}} {{f}}
+*{{hi}} <small>([[w:ISO 15919|ISO 15919]])</small>: [1] {{Üt|hi|बिल्ली|billī}}
+*{{io}}: [1] {{Ü|io|kato}}
+*{{id}}: [1] {{Ü|id|kucing}}
+*{{ia}}: [1] {{Ü|ia|catto}}
+*{{iow}}: [1] {{Ü|iow|udwáⁿ}}, {{Ü|iow|udwáⁿiñe}}, {{Ü|iow|udwáⁿiŋe}}
+*{{ga}}: [1, 4, 7] {{Ü|ga|cat}} {{m}}
+*{{xh}}: [1] {{Ü|xh|ikati}} ''9/10''
+*{{zu}}: [1] {{Ü|zu|ikati}} ''5/6'', {{Ü|zu|ingobe}} ''5/6''; [4] {{Ü|zu|igola}} ''5/6''
+*{{is}}: [1] {{Ü|is|köttur}} {{m}}; [2] {{Ü|is|læða}} {{f}}
+*{{it}}: [1, 4] {{Ü|it|gatto}} {{m}}; [2] {{Ü|it|gatta}} {{f}}; [4] {{Ü|it|felino}} {{m}}
+**{{lmo}}: [1] {{Ü|lmo|gatt}} {{m}}; [2] {{Ü|lmo|gatta}} {{f}}
+**{{nap}}: [1] {{Ü|nap|jatto}} {{m}}; [2] {{Ü|nap|jatte}} {{f}}
+**{{scn}}: [1] {{Ü|scn|gattu}} {{m}}, {{Ü|scn|jattu}} {{m}}; [2] {{Ü|scn|gatta}} {{f}}, {{Ü|scn|jatta}} {{f}}
+**{{vec}}: [1] {{Ü|vec|gat}} {{m}}, {{Ü|vec|gato}} {{m}}; [2] {{Ü|vec|gata}} {{f}}
+*{{ja|Hepburn}}: [1] {{Üt|ja|猫|ねこ, neko}}; ''schriftsprachlich:'' {{Üt|ja|狸奴|りど, rido}}; ''[[Anglizismus]]:'' {{Üt|ja|キャット|きゃっと, kyatto}}
+*{{yi|YIVO}}: [1, 2, 4] {{Üxx4|yi|קאַץ|d=kats|YIVO=0}} {{f}}
+*{{kpg}}: [1] {{Ü|kpg|buti}}
+*{{kk}} <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|kk|мысық|mysyķ}}
+*{{csb}}: [1] {{Ü|csb|kòt}} {{m}}; [2] {{Ü|csb|kòta}} {{f}}
+*{{ca}}: [1] {{Ü|ca|gat}} {{m}}; [2] {{Ü|ca|gata}} {{f}}
+*{{ky}} <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|ky|мышык|myšyk}}
+|Ü-rechts=
+*{{cop|KNAB}}:
+**[[w:Bahairisch|Bahairisch]]: [1, 2] {{Koptisch|{{Ü|cop|ⲉⲙⲟⲩ}}}} (emou) {{f}}<ref name=\"Crum55\"/>
+**[[w:Fayyumische Sprache|Fauyyumisch]]: [1, 2] {{Koptisch|{{Ü|cop|ⲉⲙⲟⲩ}}}} (emou) {{f}}<ref name=\"Crum55\"/>
+**[[w:Sahidisch|Sahidisch]]: [1, 2] {{Koptisch|{{Ü|cop|ⲁⲙⲟⲩ}}}} (amou) {{f}},<ref name=\"Crum55\"/> {{Koptisch|{{Ü|cop|ⲉⲙⲟⲩ}}}} (emou) {{f}}<ref name=\"Crum55\"/>
+*{{ko|RR}}: [1] {{Üt|ko|고양이|goyang-i}}
+*{{kw}}: [1] {{Ü|kw|cath}} {{f}} / {{Ü|kw|kath}} {{f}}
+*{{co}}: [1] {{Ü|co|ghiattu}} {{m}} / {{Ü|co|ghjattu}} {{m}}, {{Ü|co|gattu}} {{m}}; [2] {{Ü|co|ghiatta}} {{f}} / {{Ü|co|ghjatta}} {{f}}, {{Ü|co|gatta}} {{f}}
+**Galluresisch: [1] {{Ü|co|ghjattu}} {{m}}; {{reg.|:}} ''([[w:La Maddalena (Gemeinde)|La Maddalena]])'' {{Ü|co|gattu}} {{m}}; [2] {{Ü|co|ghjatta}} {{f}}; {{reg.|:}} ''([[w:Castelsardo|Castelsardo]])'' {{Ü|co|gatta}} {{f}}
+**Sassaresisch: [1] {{Ü|co|giattu}} {{m}}; [2] {{Ü|co|giatta}} {{f}}
+*{{crh}}: [1] {{Ü|crh|mışıq}}
+*{{hr}}: [1, 2] {{Ü|hr|mačka}} {{f}}
+*{{ku}}:
+**{{kmr}}: [1, 4] {{Ü|kmr|kitik}} {{m}}, {{Ü|kmr|pisîk}} {{m}} / {{Ü|kmr|pişîk}} {{m}}
+**{{ckb}}: [1, 4] {{Üxx4|ckb|پشیلە|d=pşîle|DMG=0}}
+*{{la}}: [1, 2] {{Ü|la|aelurus|aelūrus}} {{m}}, {{Ü|la|faeles|faelēs}} {{f}} / {{Ü|la|faelis}} {{f}} / {{Ü|la|feles|fēlēs}} {{f}} / {{Ü|la|felis|fēlis}} {{f}}; [1] {{Ü|la|murilegus}} {{m}}; [2] {{Ü|la|musio}} {{f}}
+**[[Spätlatein]]: [1] {{Ü|la|cattus}} {{m}} / {{Ü|la|catus}} {{m}}; [2] {{Ü|la|catta}} {{f}}
+*{{ltg}}: [1] {{Ü|ltg|kačs}}, {{Ü|ltg|kakis}}
+*{{lv}}: [1] {{Ü|lv|kaķis}} {{m}}
+*{{lt}}: [1, 2] {{Ü|lt|katė}} {{f}}
+*{{lb}}: [1, 2] {{Ü|lb|Kaz}} {{f}}
+*{{mt}}: [1] {{Ü|mt|qattus}} {{m}}; [2] {{Ü|mt|qattusa}} {{f}}
+*{{gv}}: [1] {{Ü|gv|kayt}} {{m}}
+*{{mi}}: [1] {{Ü|mi|ngeru}}, {{Ü|mi|poti}}, {{Ü|mi|puihi}}, {{Ü|mi|tori}}
+*{{mh}}: [1] {{Ü|mh|kuuj}}
+*{{myn}}:
+**{{tzh}}: [1] {{Ü|tzh|mis}}; {{reg.|:}} ''([[w:Municipio San Juan Cancuc|San Juan Cancuc]], [[w:Municipio Chilón|Chilón]], Sibakja’, [[w:Municipio Sitalá|Sitalá]], [[w:Municipio Tenejapa|Tenejapa]])'' {{Ü|tzh|choj}}, ''(San Pedro Pedernal)'' {{Ü|tzh|moxan}}, ''([[w:Municipio Sitalá|Sitalá]])'' {{Ü|tzh|muxa}}, ''([[w:Municipio San Juan Cancuc|San Juan Cancuc]], [[w:Municipio Tenejapa|Tenejapa]])'' {{Ü|tzh|xawin}}
+**{{tzo}}: [1] {{Ü|tzo|gato}}, {{Ü|tzo|misto}}
+*{{mk}} <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|mk|мачка|mačka}} {{f}}
+*{{mn}} <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|mn|муур|muur}}
+*{{na}}: [1] {{Ü|na|butsi}}
+*{{nds}}: [1, 2, 4, 7] {{Ü|nds|Katt}}; [6] {{Ü|nds|Puus}} {{f}}
+*{{nl}}: [1, 2, 4, 7] {{Ü|nl|kat}} {{f}}; [2] {{Ü|nl|wijfjeskat}} {{f}}; [5] {{Ü|nl|geldgordel}} {{m}}; [6] {{Ü|nl|poes}} {{f}}
+*{{no}}:
+**{{nb}}: [1] {{Ü|nb|katt}} {{m}}; [2] {{Ü|nb|hunnkatt}} {{m}}, {{Ü|nb|katte}} {{m}} / {{f}}, {{Ü|nb|kjette}} {{m}} / {{f}}
+**{{nn}}: [1] {{Ü|nn|katt}} {{m}}; [2] {{Ü|nn|hokatt}} {{m}}, {{Ü|nn|katte}} {{f}}, {{Ü|nn|kjette}} {{f}}
+*{{nov}}: [1] {{Ü|nov|kate}}; [2] {{Ü|nov|kata}}
+*{{oc}}: [1] {{Ü|oc|gat}} {{m}}; [2] {{Ü|oc|gata}} {{f}}; [4] {{Ü|oc|gatuènha}} {{f}}
+*{{ps|ALA-LC}}: [1] {{Üxx4|ps|پشو|d=pisho|ALA-LC=0}} {{f}}
+*{{fa}}:
+**{{prs|DMG}}: [1, 2] {{Üxx4|fa|پشک|d=pešak|DMG=0}}; [2] {{Üxx4|fa|پشک ماده|d=pešak-e mādä|DMG=0}}
+**Farsi <small>([[Hilfe:DMG|DMG]])</small>: [1, 2] {{Üxx4|fa|گربه|d=gorbä, gurbä|DMG=0}}; [2] {{Üxx4|fa|گربۀ ماده|d=gorbä-ye mādä, gurbä-ye mādä|DMG=0}}
+**{{tg}}: [1, 2] {{Üt|tg|гурба|gurba}}; [2] {{Üt|tg|гурбаи мода|gurbai moda}}
+*{{pl}}: [1] {{Ü|pl|kot}} {{m}}; [2] {{Ü|pl|kotka}} {{f}}
+*{{pt}}: [1] {{Ü|pt|gato}} {{m}}; [2] {{Ü|pt|gata}} {{f}}
+*{{pkp}}: [1] {{Ü|pkp|poti}}
+*{{qu}}: [1, 2] ''[[Bolivien]]:'' {{Ü|qu|michi}}, {{Ü|qu|misi}}; ''[[Peru]]:'' {{Ü|qu|michi}} / {{Ü|qu|mishi}}, {{Ü|qu|pichi}}; {{reg.|:}} ''([[w:Region Ayacucho|Ayacucho]])'' {{Ü|qu|misi}}
+*{{rap}}: [1] {{Ü|rap|kurî}}
+*{{rm}}: [1] {{Ü|rm|giat}} {{m}}; [2] {{Ü|rm|giatta}} {{f}}
+**Surselvisch: [1, 5] {{Ü|rm|gat}} {{m}}; [2, 5] {{Ü|rm|gatta}} {{f}}
+**Sutselvisch: [1] {{Ü|rm|gat}} {{m}} / {{Ü|rm|giat}} {{m}}; [2] {{Ü|rm|gata}} {{f}} / {{Ü|rm|giata}} {{f}}
+*{{ro}}: [1, 2] {{Ü|ro|pisică}} {{f}}
+*{{ru}}: [1, 2] {{Üt|ru|кошка}} {{f}}
+*{{smi}}:
+**{{smn}}: [1] {{Ü|smn|kaasi}}, {{Ü|smn|kissá}}
+**Lulesamisch: [1] {{Ü|smi|gáhtto}}
+**{{se}}: [1] {{Ü|se|busegáhttu}}, {{Ü|se|bussá}}, {{Ü|se|gáhttu}}, {{Ü|se|gissi}}
+**{{sje}}: [1] {{Ü|sje|gáhtto}}
+**{{sms}}: [1] {{Ü|sms|kaass}}
+**{{sma}}: [1] {{Ü|sma|gaahtoe}}
+*{{sm}}: [1] {{Ü|sm|gose}}, {{Ü|sm|geli}}, {{Ü|sm|pusi}}
+*{{sa}}: [1, 2] {{Üt|sa|मार्जारी|marjari}} {{f}}
+*{{sc}}:
+**[[w:Campidanesisch|Campidanesisch]]: [1] {{Ü|sc|gattu}} {{m}}; [2] {{Ü|sc|gattu}} {{f}}
+**Logudoresisch: [1] {{Ü|sc|attu}} {{m}}, {{Ü|sc|battu}} {{m}}
+**Nuoresisch: [1] {{Ü|sc|gattu}} {{m}}; [2] {{Ü|sc|gattu}} {{f}}
+*{{gd}}: [1] {{Ü|gd|cat}} {{m}}
+*{{sv}}: [1] {{Ü|sv|katt}} {{u}}; [4] {{Ü|sv|kattdjur}} {{n}}
+*{{sco}}: [1] {{Ü|sco|gibbie}}, {{Ü|sco|cat}}
+*{{sr}}: [1, 2] {{Üt|sr|мачка|mačka}} {{f}}
+*{{sh}}: [1, 2] {{Üt|sh|мачка|mačka}} {{f}}
+*{{st}}: [1] {{Ü|st|katse}} ''9''
+*{{sk}}: [1, 2] {{Ü|sk|mačka}} {{f}}
+*{{sl}}: [1, 2] {{Ü|sl|mačka}} {{f}}
+*{{wen}}:
+**{{dsb}}: [1, 2] {{Ü|dsb|kocka}} {{f}}
+**{{hsb}}: [1, 2] {{Ü|hsb|kóčka}} {{f}}
+*{{es}}: [1] {{Ü|es|gato}} {{m}}; [2] {{Ü|es|gata}} {{f}}; [4] {{Ü|es|félido}} {{m}}
+*{{sw}}: [1] {{Ü|sw|paka}} ''9/10''; [4] {{Ü|sw|paka}} ''5/6''
+*{{ty}}: [1] {{Ü|ty|mīmī}}, {{Ü|ty|piʻifare}}
+*{{th}}: [1] {{Üt|th|แมว|maew}}
+*{{tig}} <small>([https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=vsytndbyev B&D])</small>: [1] {{Üt|tig|ድሙ|dəmmu}}
+*{{ti}} <small>([https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=vsytndbyev B&D])</small>: [1] {{Üt|ti|ድሙ|dəmu}}
+*{{tli}}: [1] {{Ü|tli|dóosh}}
+*{{tkl}}: [1] {{Ü|tkl|puhi}}
+*{{to}}: [1] {{Ü|to|pusi}}
+*{{cs}}: [1, 2] {{Ü|cs|kočka}} {{f}}
+*{{cv}}: [1] {{Üt|cv|кушак|kušak}}
+*{{tr}}: [1] {{Ü|tr|kedi}}
+**{{ota}}: [1] {{Üxx4|ota|قط|d=qiṭṭ, qitt; <small>{{İA}}</small> ḳiṭṭ}},<ref>{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »kıtt {{Arab|قط}}«, Seite 619.</ref> {{Üxx4|ota|گربه|d=gürbä, gürbe; <small>{{İA}}</small> gürbe}},<ref name=\"Devellioğlu357\">{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »gürbe {{Farsi|گربه}}«, Seite 357.</ref> {{Üxx4|ota|میلی|d=mîlî; <small>{{İA}}</small> mîlî}},<ref>{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »mîlî {{Farsi|میلی}}«, Seite 775.</ref> {{Üxx4|ota|هر|d=hirr; <small>{{İA}}</small> hirr}},<ref>{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »hirr {{Arab|هر}}«, Seite 444.</ref> [2] {{Üxx4|ota|گربه|d=gürbä, gürbe; <small>{{İA}}</small> gürbe}},<ref name=\"Devellioğlu357\"/> {{Üxx4|ota|هره|d=hirrä, hirre; <small>{{İA}}</small> hirre}};<ref>{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »hirre {{Arab|هره}}«, Seite 444.</ref> [4] {{Üxx4|ota|سنور|d=sinnavr, sinnävr; <small>{{İA}}</small> sinnevr}}<ref>{{Lit-Devellioğlu: Osmanlıca-Türkçe Ansiklopedik Lûgat}}, Stichwort »sinnevr {{Arab|سنور}}«, Seite 1145.</ref>
+*{{tk}}: [1] {{Ü|tk|pişik}}
+*{{tvl}}: [1] {{Ü|tvl|puusi}}
+*{{ug}}:
+**Arabisch <small>(ALA-LC)</small>: [1] {{Üxx4|ug|مۈشۈك|d=müshük|ALA-LC=0}}
+**Kyrillisch <small>([[w:ISO 9|ISO 9]])</small>: [1] {{Üt|ug|мүшүк|mùšùk}}
+*{{uk}}: [1] {{Üt|uk|кіт}} {{m}}; [2] {{Üt|uk|кішка}} {{f}}
+*{{hu}}: [1, 2] {{Ü|hu|macska}}
+*{{uz}}: [1] {{Ü|uz|mushuk}}
+*{{vi}}: [1] {{Ü|vi|mèo}}
+*{{vo}}: [1] {{Ü|vo|kat}}
+*{{cy}}: [1] {{Ü|cy|cath}} {{f}}
+*{{wa}}: [1] {{Ü|wa|tchet}} {{m}}
+*{{be}}: [1, 2] {{Üt|be|кошка|koška}} {{f}}
+*{{yaq}}: [1] {{Ü|yaq|miisi}}
+*{{zza}}:
+**{{diq}}: [1] {{Ü|diq|pısing}} {{f}}, {{Ü|diq|pıso}} {{f}}
+|Dialekttabelle=
+{{überarbeiten|1=unbelegte Angaben belegen, [[Benutzer:Caligari|Caligari]] [[Benutzer_Diskussion:Caligari|<span style=\"font-family: 'Arial Unicode MS', sans-serif;\"><span class=\"ipa\" style=\"padding: 0 1px; text-decoration: none;\"><sup>Ɔ</sup>ɐ<sup>ƀïи</sup>Ϡ<sub>Ⴕ</sub></span></span>]] 19:29, 11. Apr. 2015 (MESZ)|2=Deutsch}}
+*'''Westmitteldeutsch:'''
+**[[Mittelfränkisch]]:
+***[[Moselfränkisch]]: ''[[w:Britten (Losheim am See)|Britten]]:'' {{Lautschrift|kats}} {{f}}<ref>{{Literatur | Autor=Maria Besse | Titel=Britter Wörterbuch | TitelErg=Moselfränkischer Dialekt am „Tor zum Hochwald“, Britten — Gemeinde Losheim am See (Saarland) | Verlag=Verein für Heimatkunde in der Gemeinde Losheim am See e.&nbsp;V. | Ort=Losheim am See | Jahr=2004 | ISBN=3-00-014131-6 }}, Stichwort »Katze«, Seite 177.</ref>
+****[[Hunsrückisch]]:
+*****Riograndenser Hunsrückisch: {{Lautschrift|kʰad̥s}}<ref>{{Lit-Altenhofen: Hunsrückisch in Rio Grande do Sul}}, Seite 170, 229, 264.</ref>
+**[[Rheinfränkisch]]:
+***{{pfl}}: {{Lautschrift|kad̥s}},<ref name=\"Pfälzisch\">Nach {{Ref-Pfälzisch}}</ref> {{reg.}} ''([[w:Kreimbach-Kaulbach|Kreimbach-Kaulbach]], [[w:Linden (Pfalz)|Linden]]):'' {{Lautschrift|kɒd̥s}};<ref name=\"Pfälzisch\"/> {{Pl.}} {{Lautschrift|kad̥sə}},<ref name=\"Pfälzisch\"/> {{reg.}} ''([[w:Kreimbach-Kaulbach|Kreimbach-Kaulbach]], [[w:Linden (Pfalz)|Linden]]):'' {{Lautschrift|kɒd̥sə}}<ref name=\"Pfälzisch\"/>
+****{{pdc}}: {{Lautschrift|kɒds}},<ref>{{Lit-Kelz: Phonologische Analyse des Pennsylvaniadeutschen}}, Seite 35.</ref> {{Lautschrift|kɔds}}<ref>Ebenda, Seite 99.</ref>
+|D-rechts=
+*'''Ostmitteldeutsch:'''
+**[[Obersächsisch]]: {{Lautschrift|kɒt͡s}}<ref name=\"Müller-Fraureuth\">Nach {{Literatur | Autor=Karl Müller-Fraureuth | Titel=Wörterbuch der oberſächſiſchen und erzgebirgiſchen Mundarten | Band=Band Ⅱ, K bis Z und Nachträge | Verlag=Verlag von Wilhelm Baenſch | Ort=Dresden | Jahr=1914, Stichwort »Katze« | Seiten=24 }}.</ref>
+**[[Erzgebirgisch]]: {{Lautschrift|kɔt͡s}}<ref name=\"Müller-Fraureuth\"/>
+*'''Ostoberdeutsch:'''
+**[[Ostfränkisch]]: [1] Menger {{Lautschrift|ˈmeŋɡəʁ}} {{m}}{{QS Herkunft|unbelegt}}; Mengere {{Lautschrift|ˈmeŋɡəʁe}} {{f}}{{QS Herkunft|unbelegt}}
+**[[Bairisch]]: [1] [[Katz]]{{QS Herkunft|unbelegt}}; [[Muschi]]{{QS Herkunft|unbelegt}}
+*'''Westoberdeutsch ([[Alemannisch]]):'''
+**Schwäbisch: [1] Katz{{QS Herkunft|unbelegt}}; Mull{{QS Herkunft|unbelegt}}
+**Schweizerdeutsch: [1] Chatz<ref>Nach {{Lit-Huber: Schweizerisches Idiotikon|B=4}}, Stichwort »Chatz«, Spalte 582.</ref>
+}}
+
+{{Referenzen}}
+:[1] {{Wikipedia}}
+:[1–4] {{Wikipedia|Katze (Begriffsklärung)}}
+:[1, 7] {{Ref-DWDS}}
+:[*] {{Ref-OWID|elexiko|202189}}
+:[1, 2, 4] {{Ref-FreeDictionary}}
+:[1–5] {{Ref-Duden}}
+:[1, 4] {{Ref-wissen.de|Wörterbuch}}
+:[1, 2, 4] {{Ref-Pons}}
+:[*] {{Ref-UniLeipzig}}
+:[1, 2, 4, 5] {{Ref-Grimm}}
+:[1–6] {{Literatur | Titel=Duden, Das große Wörterbuch der deutschen Sprache | TitelErg=10 Bände auf CD-ROM ; mehr als 200 000 Stichwörter mit rund 90 000 Belegen aus mehreren Hundert Quellen ; vielfältige Recherchemöglichkeiten ; für MS Windows und Apple Macintosh | Verlag=Dudenverlag | Ort=Mannheim/Leipzig/Wien/Zürich | Jahr=2000 | ISBN=978-3-411-71001-0 }}, Stichwort »Katze«.
+:[7–9] {{Lit-Küpper: Wörterbuch der Umgangssprache|A=1 (Digitale Bibliothek)}}, Stichwort »Katze«.
+:[1–5] {{Lit-Duden: Universalwörterbuch|A=9}}, Stichwort »Katze«, Seite 997.
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Atze]], [[Glatze]], [[Kate]], [[Karzer]], [[Kitze]], [[Kotze]], [[kotze]], [[kratze]], [[Matze]], [[patze]], [[Ratze]], [[Tatze]]}}

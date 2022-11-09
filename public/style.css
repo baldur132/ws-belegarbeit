@@ -1,0 +1,32 @@
+/* -- tags -- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /*font-family: 'Cormorant Garamond', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+    font-family: 'Cormorant Garamond', serif;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* -- classes -- */
+.word-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.word {
+    font-size: 10em;
+    line-height: 0.8em;
+}
+
+.word-subtitle {
+    font-size: 2em;
+    font-style: italic;
+}
