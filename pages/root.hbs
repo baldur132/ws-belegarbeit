@@ -14,12 +14,52 @@
         <!-- local imports -->
         <link rel="stylesheet" href="/style.css">
         <link rel="icon" href="/favicon.png">
+        <script src="/main.js"></script>
     </head>
 
-    <body>
-        <div class="word-wrapper">
-            <h1 class="word">{{word}}</h1>
-            <h4 class="word-subtitle">{{partofspeech}}, {{article}}</h4>
+    <body onload="init()">
+        <div class="slider-container">
+            <div class="slider-button" id="sliderButton"></div>
+            <div class="slider-cap slider-start"></div>
+            <div class="slider-line"></div>
+            <div class="slider-cap slider-end"></div>
         </div>
+        <div class="wrapper">
+            <div class="word-wrapper hidden">
+                <h1 class="word">{{wort}}</h1>
+                {{#if genus}}
+                    <h4 class="word-subtitle">{{wortart}}, {{genus}}</h4>
+                {{else}}
+                    <h4 class="word-subtitle">{{wortart}}</h4>
+                {{/if}}
+            </div>
+            <div class="definitions-wrapper hidden">
+                <ol class="definitions">
+                    {{#each bedeutungen}}
+                        <li><p>{{{this}}}</p></li>
+                    {{/each}}
+                </ol>
+            </div>
+
+            <div class="wordlist-wrapper">
+                <!--
+                Pfingstvögel
+                Pfingstwoche
+                Pfingstzeit
+                Pfinztag
+                Pfirsich
+                Pfirsichbaumes
+                Pfirsichblüte
+                -->
+                <h1 class="word d2">Pfingstwoche</h1>
+                <h1 class="word d1">Pfingstzeit</h1>
+                <h1 class="word d0">Pfinztag</h1>
+                <h1 class="word d1">Pfirsich</h1>
+                <h1 class="word d2">Pfirsichbaumes</h1>
+            </div>
+        </div>
+        <!--<div class="letter-slider-container">
+            <input type="range" orient="vertical" id="letterSlider" class="letter-slider">
+        </div>-->
     </body>
 </html>

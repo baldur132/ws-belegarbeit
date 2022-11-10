@@ -8,17 +8,31 @@
 body {
     /*font-family: 'Cormorant Garamond', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
     font-family: 'Cormorant Garamond', serif;
-    display: grid;
-    align-items: center;
-    justify-items: center;
-    width: 100vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
     height: 100vh;
 }
 
+ol {
+    margin-left: 2rem;
+}
+
 /* -- classes -- */
+.wrapper {
+    display: flex;
+    flex-direction: column;
+
+    align-items: start;
+    justify-content: center;
+
+    flex-grow: 1;
+    margin: 0 4rem;
+}
 .word-wrapper {
     display: flex;
     flex-direction: column;
+    padding: 0 4em 1em 0;
 }
 
 .word {
@@ -29,4 +43,108 @@ body {
 .word-subtitle {
     font-size: 2em;
     font-style: italic;
+}
+
+.definitions li {
+    margin-bottom: 0.4rem;
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+.definitions li p {
+    font-size: 1.4rem;
+    font-style: normal;
+}
+
+.empty-message {
+    min-width: 60dvmin;
+}
+.empty-message h1 {
+    font-size: 4rem;
+    line-height: 3.8rem;
+    margin-bottom: 1rem;
+}
+.empty-message h2 {
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: 300;
+}
+.empty-message h2 span {
+    font-weight: bold;
+}
+
+.wordlist-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.wordlist-wrapper .d2 {
+    color: #aaa;
+}
+.wordlist-wrapper .d1 {
+    color: #888;
+}
+.wordlist-wrapper .d0 {
+    color: #000
+}
+
+
+/* -- helper classes -- */
+.hidden {
+    display: none;
+}
+
+
+/* -- custom slider element --*/
+.slider-container {
+    width: 20px;
+    height: 100vh;
+    margin: 0 2rem;
+    padding: 3rem 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    left: 0;
+    top: 0;
+}
+.slider-cap {
+    width: 1rem;
+    height: 1rem;
+    background-color: #ffff;
+    border: 0.05rem solid black;
+}
+.slider-start {
+    border-radius: 50% 50% 50% 0;
+    transform: rotate(-45deg) translate(0.1rem, -0.1rem);
+}
+.slider-end {
+    border-radius: 0 50% 50% 50%;
+    transform: rotate(45deg) translate(0.1rem, 0.1rem);
+}
+.slider-line {
+    height: 100%;
+    width: 0;
+    border-left: 0.06rem dashed black;
+    border-right: 0.06rem dashed black;
+    pointer-events: none;
+}
+.slider-button {
+    position: absolute;
+    top: 0;
+
+    width: 0.6rem;
+    aspect-ratio: 1;
+
+    --slider-offset: 1.7rem;
+    transform: translateY(var(--slider-offset)) rotate(45deg);
+
+    background-color: #ffff;
+    border-radius: 50% 0 50% 0;
+    border: 0.05em solid black;
+
+    cursor: pointer;
+}
+.slider-button:hover, .slider-button:active {
+    border-width: 0.07em;
 }
