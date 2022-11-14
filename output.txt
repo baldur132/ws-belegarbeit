@@ -1,224 +1,158 @@
-{{Siehe auch|arzt}}
-{{Wort der Woche|23|2013}}
- Arzt ({{Sprache|Deutsch}}) 
- {{Wortart|Substantiv|Deutsch}}, m 
+ Wörterbuch ({{Sprache|Deutsch}}) 
+ {{Wortart|Substantiv|Deutsch}}, n 
 
 {{Deutsch Substantiv Übersicht
-|Genus=m
-|Nominativ Singular=Arzt
-|Nominativ Plural=Ärzte
-|Genitiv Singular=Arztes
-|Genitiv Plural=Ärzte
-|Dativ Singular=Arzt
-|Dativ Singular*=Arzte
-|Dativ Plural=Ärzten
-|Akkusativ Singular=Arzt
-|Akkusativ Plural=Ärzte
-|Bild=Physical Exam - Stethoscope.jpg|mini|1|ein ''Arzt'' bei einer Untersuchung
+|Genus=n
+|Nominativ Singular=Wörterbuch
+|Nominativ Plural=Wörterbücher
+|Genitiv Singular=Wörterbuches
+|Genitiv Singular*=Wörterbuchs
+|Genitiv Plural=Wörterbücher
+|Dativ Singular=Wörterbuch
+|Dativ Singular*=Wörterbuche
+|Dativ Plural=Wörterbüchern
+|Akkusativ Singular=Wörterbuch
+|Akkusativ Plural=Wörterbücher
+|Bild=Latin_dictionary.jpg|mini|1|Lateinisches ''Wörterbuch''
 }}
 
 Worttrennung
-Arzt, Pl. Ärz·te
+Wör·ter·buch, Pl. Wör·ter·bü·cher
 
 Aussprache
-IPA {{Lautschrift|aːɐ̯t͡st}}, {{Lautschrift|aʁt͡st}}
-Hörbeispiele {{Audio|De-Arzt.ogg}}, {{Audio|De-Arzt2.ogg}}, {{Audio|De-at-Arzt.ogg|der Arzt|spr=at}}
-Reime {{Reim|aʁt͡st|Deutsch}}
+IPA {{Lautschrift|ˈvœʁtɐˌbuːx}}
+Hörbeispiele {{Audio|De-Wörterbuch.ogg}} {{Audio|De-at-Wörterbuch.ogg|spr=at}}
 
 Bedeutungen
-[1] {{K|Beruf|Gesundheitswesen}} Heilkundiger, der ein Medizinstudium abgeschlossen hat und nach Erlangung der medizinischen Approbation körperliche und seelische Krankheiten behandelt
+[1] Nachschlagewerk für die Schreibweise, Aussprache, Bedeutung, Grammatik, Geschichte und/oder Übersetzung von Wörtern
+
+Abkürzungen
+[1] Wb., Wtb.
 
 Herkunft
-Dem Substantiv ''Arzt'' gehen das althochdeutsche ''arzāt'' aus dem 9. Jahrhundert, das das althochdeutsche ''lāhhi'' verdrängt hat, und die mittelhochdeutschen Formen ''arzāt'' und ''arzet'' voraus.<ref name=Pfeifer/> Hierbei handelt es sich genau wie beim mittelniederdeutschen ''arste'' und dem mittelniederländischen ''arsatere'' um Entlehnungen aus dem mittellateinischen ''{{Ü|la|arciater}}'' und dem spätlateinischen ''{{Ü|la|archiater|archiāter}}'' und ''{{Ü|la|archiatrus|archiātrus}},'' die auf das altgriechische ''{{Üt|grc|ἀρχιατρός}}'' ‚Oberarzt, Leibarzt‘ zurückgehen.<ref name=Pfeifer/> Dieses setzt sich aus der Vorsilbe ''{{Üt|grc|ἀρχ-||ἀρχ(ι)-}}‚'' Haupt-, Ober-, Erz-‘ und ''{{Üt|grc|ἰατρός}}'' ‚Arzt, Wundarzt‘ zusammen.<ref name=Pfeifer>{{Lit-Pfeifer: Etymologisches Wörterbuch|A=8}}, „Arzt“, Seite 63.</ref> Das altgriechische ''ἰατρός'' war wie das lateinische ''{{Ü|la|medicus}}'' die generelle Berufsbezeichnung für den Heilkundigen, während ''ἀρχίατρος'' und ''archiāter'' Titel darstellten.<ref name=Pfeifer/> So trugen beispielsweise die Hof- und Leibärzte bei den Seleukiden in Antiochia und später die Stadt- und Hofärzte in der römischen Kaiserzeit sowie die Ärzte am Königshof der Merowinger den Titel ''Archiater.''<ref name=Pfeifer/> Ebenso wie der Beruf des Arztes wurde auch die Bezeichnung ''Arzt'' in frühneuhochdeutscher Zeit stark abgewertet – bis hin zum Marktschreier.<ref name=Kluge>{{Lit-Kluge: Etymologisches Wörterbuch|A=25}}, „Arzt“, Seite 64.</ref> In der Neuzeit trat dann ein Wandel hin zu mehr Wertschätzung ein.<ref name=Kluge/>
+Verdeutschung von ''dictionarium'' bzw. ''lexicon'' im 17. Jahrhundert durch Comenius<ref>Lit-Herder: Der Neue Herder in 2 Bänden, Band 2, Seite 4944, Artikel Wörterbuch</ref>, ursprünglich holländisch: ''wordboek.''
 
 Synonyme
-[1] {{ugs.|:}} Doktor, Mediziner, {{va.|:}} Medikus, Physikus, ''abwertend:'' Quacksalber
+[1] ''manchmal (veraltend) auch:'' Diktionär, Dictionnaire, Enzyklopädie, Lexikon, Thesaurus
 
 Gegenwörter
-[1] Patient
+[1] Bibliographie, Einführung
 
-Weibliche Wortformen
-[1] Ärztin
+Oberbegriffe
+[1] Nachschlagewerk, Buch
 
 Unterbegriffe
-[1] Akutmediziner, Allgemeinmediziner
-[1] Admiralarzt, Admiralstabsarzt, Allgemeinarzt, Amtsarzt, Anstaltsarzt, Armenarzt, Assistenzarzt, Bereitschaftsarzt, Betriebsarzt, Chefarzt, Dopingarzt, Durchgangsarzt, Feldarzt, Feuerwehrarzt, Fliegerarzt (Flugarzt), Flüchtlingsarzt, Gefängnisarzt, Hausarzt, Hotelarzt, Impfarzt, Kantonsarzt, Kassenarzt, Klinikarzt, Kurarzt, Landarzt, Leibarzt, Mannschaftsarzt, Militärarzt, Notarzt, Oberarzt, Paukarzt, Polizeiarzt, Provinzarzt, Schiffsarzt, Sportarzt, Stadtarzt, Stationsarzt, Theaterarzt, Turnusarzt, Vertrauensarzt, Werksarzt, Wundarzt
-[1] Feldscher, Feldscherer
-[1] ''Fachärzte:'' Abtreibungsarzt, Allergologe, Anästhesist, Androloge, Augenarzt, Chirurg, Dermatologe, Frauenarzt, Gastroenterologe, Geriater, Gynäkologe, Hals-Nasen-Ohren-Arzt/HNO-Arzt, Hautarzt, Internist, Kardiologe, Kinderarzt, Lungenfacharzt, Narkosearzt, Neonatologe, Nephrologe, Nervenarzt, Neurologe, Onkologe, Ophthalmologe, Orthopäde, Pädiater, Pneumologe, Proktologe, Psychiater, Pulmologe, Radiologe, Rheumatologe, Röntgenologe, Tierarzt, Tropenarzt, Urologe, Veterinär, Zahnarzt
+[1] ''nach Format:'' Handwörterbuch, Internetwörterbuch, Online-Wörterbuch, Printwörterbuch, Taschenwörterbuch, Wikiwörterbuch
+[1] ''nach Inhalt:'' Abkürzungswörterbuch, Akronymwörterbuch, Anglizismenwörterbuch, Antonymenwörterbuch, Aussprachewörterbuch, Autorenwörterbuch, Bedeutungswörterbuch, Bezeichnungswörterbuch, Bildwörterbuch, Dialektwörterbuch, Diskurswörterbuch, etymologisches Wörterbuch, Fachwörterbuch, Fremdwörterbuch, Frequenzwörterbuch, Genderwörterbuch, Häufigkeitswörterbuch, Herkunftswörterbuch, Individualwörterbuch, Mundartwörterbuch, Neologismenwörterbuch, onomasiologisches Wörterbuch, Paronymwörterbuch, phonologisches Wörterbuch, Rechtschreibwörterbuch, Rechtswörterbuch, Reimwörterbuch, Sachwörterbuch, Schimpfwörterbuch, Schlagwörterbuch, semasiologisches Wörterbuch, Spezialwörterbuch, Sprachwörterbuch, Stilwörterbuch, Synonymwörterbuch (Synonymenwörterbuch), Valenzwörterbuch, Variantenwörterbuch, Volkswörterbuch, Wortfamilienwörterbuch
+[1] Englischwörterbuch
+[1] Duden, Grimmsches Wörterbuch, Mitmachwörterbuch, rückläufiges Wörterbuch, Schulwörterbuch, Schülerwörterbuch
+[1] Idiotikon
 
 Beispiele
-[1] Ein ''Arzt'' hat gelernt, seinen Patienten zu helfen.
-[1] In immer mehr Regionen gibt es viel zu wenig ''Ärzte,'' die eine Praxis auf dem Land eröffnen oder übernehmen wollen.
-[1] Mein ''Arzt'' hat noch keinen Doktortitel.
-[1] „An jenem Abend, in der Dunkelheit, hatte ein junger ''Arzt'' neben einer jungen Krankenschwester gesessen.“<ref>{{Literatur | Autor= Lizzie Doron | Titel= Warum bist du nicht vor dem Krieg gekommen? |TitelErg= | Auflage= 6.|Verlag= Jüdischer Verlag im Suhrkamp Verlag| Ort= Frankfurt| Jahr= 2015 | ISBN=978-3-518-45769-6 | Seiten=106.}} Hebräisches Original 1998.</ref>
-[1] „Der Patient ist nicht immer so, wie der ''Arzt'' ihn will.“<ref>{{Literatur| Autor= Eugen Skasa-Weiß |Titel= So lacht Germania| TitelErg= Humor zwischen Isar und Elbe| Verlag= Herder |Ort= Freiburg/Basel/Wien | Jahr= 1971 | ISBN=  | Seiten= 108.}}</ref>
-
-Redewendungen
-[1] bis der ''Arzt'' kommt
-
-Charakteristische Wortkombinationen
-[1] behandelnder ''Arzt,'' niedergelassener ''Arzt,'' praktischer ''Arzt,'' praktizierender ''Arzt,'' ''Arzt'' im Praktikum, den ''Arzt'' aufsuchen, den ''Arzt'' konsultieren
+[1] Er nutzt ein ''Wörterbuch'' für Korrekturen.
+[1] Sie schlägt in einem englischen ''Wörterbuch'' nach.
+[1] Das Wiktionary ist ein freies ''Wörterbuch'' in Wiki-Form.
+[1] „Tatsache ist, dass unser aller Wissen über die Textsorte ''Wörterbuch'' diesem ein hohes Maß an Orientierungsleistung und Normativität zuschreibt.“<ref>Ulrike Haß-Zumkehr: ''Deutsche Wörterbücher - Brennpunkt von Sprach- und Kulturgeschichte.'' de Gruyter, Berlin/New York 2001, Seite 9. ISBN 3-11-014885-4.</ref>
+[1] „In diesem Fall ist nicht einmal ein ''Wörterbuch'' notwendig.“<ref>{{Literatur|Autor=Radek Knapp|Titel=Gebrauchsanweisung für Polen|Auflage=5.|Verlag=Piper|Ort= München, Zürich |Jahr=2011}}, Seite 28. ISBN 978-3-423-492-27536-1.</ref>
+[1] „Er verstand schon vieles, auch wenn es beim Lesen nur langsam vorwärts ging und er immer wieder im ''Wörterbuch'' nachschlagen musste.“<ref>{{Literatur|Autor= Karl Heinz Bohrer |Titel= Granatsplitter |TitelErg= Erzählung einer Jugend |Verlag= Deutscher Taschenbuch Verlag |Ort= München| Jahr= 2014| ISBN= 978-3-423-14293-9}}, Seite 309f, Erstausgabe 2012.</ref>
+[1] „''Wörterbücher'' haben nicht so sehr die Aufgabe, die spezifische Bedeutung eines Wortes erschöpfend zu beschreiben - das gelingt fast nie.“<ref>{{Literatur | Autor= Wolfgang Klein |Herausgeber=Deutsche Akademie für Sprache und Dichtung, Union der deutschen Akademien der Wissenschaften |Titel= Von Reichtum und Armut des deutschen Wortschatzes |Sammelwerk= Reichtum und Armut der deutschen Sprache. Erster Bericht zur Lage der deutschen Sprache | Verlag= de Gruyter | Ort= Berlin/Boston | Jahr= 2013 | Seiten= 15–55, Zitat Seite 37.| ISBN=978-3-11-033462-3}}.</ref>
 
 Wortbildungen
-''Adjektive:'' ärztlich, ärztlicherseits
-''Substantive:'' Arznei, Arztbericht, Arztberuf, Arztbesuch, Arztbrief, Ärztedienst, Ärztefunk, Ärztefunkdienst, Ärztehaus, Ärztekammer, Ärztekoffer, Ärztemangel, Ärztemuster, Ärztenotdienst, Ärztenotruf, Ärztepräsident, Ärzteschaft, Ärzteschwemme, Ärztetasche, Ärzteteam, Ärztevertreter, Ärztezeitung, Ärztezentrum, Arztfrau, Arztgelöbnis, Arzthelfer, Arzthilfeschein, Arzthonorar, Arztkittel, Arztkoffer, Ärztekongress, Arztkosten, Arzt-Patienten-Verhältnis, Arztpraxis, Arztrechnung, Arztroman, Arztsekretär, Arztserie, Arztsohn, Arztspiel, Arzttasche, Arzttermin, Arzttochter, Arztwahl, Arztwitz
-''Verben:'' verarzten
+[1] Wörterbuchartikel, Wörterbucheintrag, Wörterbuchforschung, Wörterbuchredaktion
 
  Übersetzungen 
 {{Ü-Tabelle|Ü-links=
-*af: [1] {{Ü|af|dokter}}, {{Ü|af|arts}}
-*sq: [1] {{Ü|sq|mjek}} m
-*ang: [1] {{Ü|ang|læce}} m
-*ar: [1] {{Üt|ar|طبيب|tbyb}}
-*hy: [1] {{Üt|hy|բժիշկ|bʤischk}}
-*az: [1] {{Ü|az|həkim}}
-*bm: [1] {{Ü|bm|dɔkɔtɔrɔ}}
-*eu: [1] {{Ü|eu|mediku}}, {{Ü|eu|osagile}}, {{Ü|eu|sendagile}}
-*bs: [1] {{Ü|bs|ljekar}} m, {{Ü|bs|liječnik}} m, {{Ü|bs|doktor}} m
-*bg: [1] {{Üt|bg|лекар|lekar}} m, {{Üt|bg|доктор|doktor}} m
-*zh:
-**zh-tw: [1] {{Üt|zh|醫生|yīshēng}}
-**zh-cn: [1] {{Üt|zh|医生|yīshēng}}
-*da: [1] {{Ü|da|læge}} u
-*en: [1] {{Ü|en|doctor}}, {{Ü|en|physician}}, (informal) {{Ü|en|doc}}, (slang) {{Ü|en|quack}}
-*eo: [1] {{Ü|eo|kuracisto}}, {{Ü|eo|medicinisto}}, {{Ü|eo|doktoro}}
-*et: [1] {{Ü|et|arst}}
-*fo: [1] {{Ü|fo|lækni}}
-*fi: [1] {{Ü|fi|lääkäri}}
-*fr: [1] {{Ü|fr|docteur}} m, {{Ü|fr|médecin}} m
-*fur: [1] {{Ü|fur|dotôr}} m, {{Ü|fur|miedi}} m
-*el: [1] {{Üt|el|γιατρός|giatrós}} mf
-*kl: [1] {{Ü|kl|nakorsaq}}
-*he: [1] {{Üt|he|רופא|rofä}}
-*io: [1] {{Ü|io|mediko}}
-*id: [1] {{Ü|id|Dokter}}
-*ia: [1] {{Ü|ia|medico}}
-*ga: [1] {{Ü|ga|dochtúir}} m
-*zu: [1] {{Ü|zu|udokotela}}
-*is: [1] {{Ü|is|læknir}} m
-*it: [1] {{Ü|it|dottore}} m, {{Ü|it|medico}} m
-*ja: [1] {{Üt|ja|医者|いしゃ, isha}}, {{Üt|ja|医師|いし, ishi}}
-*ca: [1] {{Ü|ca|metge}} m, {{Ü|ca|metgessa}} f, {{Ü|ca|doctor}}
-*ko: [1] {{Üt|ko|의사|uisa}}
-*kw: [1] {{Ü|kw|doktour}} m, {{Ü|kw|medhek}} m
-*hr: [1] {{Ü|hr|liječnik}} m, {{Ü|hr|doktor}} m
+*af: [1] {{Ü|af|woordeboek}}
+*sq: [1] {{Ü|sq|fjalor}} m
+*{{ar|DMG}}: [1] {{Üxx4|ar|معجم|d=muʿǧam|DMG=0|v=مُعْجَمٌ}} m, {{Üxx4|ar|قاموس|d=qāmūs|DMG=0|v=قَامُوْسٌ}} m
+*az: [1] {{Ü|az|lüğət}}
+*bs: [1] {{Üt|bs|рјечник|rječnik}} m
+*br: [1] {{Ü|br|geriadur}}
+*bg: [1] {{Üt|bg|речник|rečnik}}, {{Üt|bg|словар|slovar}}
+*zh: [1] {{Üt|zh|字典|zìdiǎn}}
+*da: [1] {{Ü|da|ordbog}}
+*en: [1] {{Ü|en|dictionary}}, {{Ü|en|wordbook}}
+*eo: [1] {{Ü|eo|vortaro}}
+*et: [1] {{Ü|et|sõnaraamat}}
+*fo: [1] {{Ü|fo|orðabók}} f
+*fi: [1] {{Ü|fi|sanakirja}}
+*fr: [1] {{Ü|fr|dictionnaire}} m
+*fur: [1] {{Ü|fur|dizionari}} m
+*gl: [1] {{Ü|gl|dicionario}} m
+*ka: [1] {{Üt|ka|ლექსიკონი|lexikoni}}
+*el: [1] {{Üt|el|λεξικό|lexikó}}
+*kl: [1] {{Ü|kl|ordbogi}}
+*ht: [1] {{Ü|ht|diksyonè}}
+*he: [1] {{Üt|he|מילון|milon}}
+*hi: [1] {{Üt|hi|शब्दकोष|śabdakos&#803;a}}
+*io: [1] {{Ü|io|dicionario}}, {{Ü|io|vortolibro}}
+*id: [1] {{Ü|id|kamus}}
+*ia: [1] {{Ü|ia|dictionario}}
+*ga: [1] {{Ü|ga|foclóir}} m
+*is: [1] {{Ü|is|orðabók}}
+*it: [1] {{Ü|it|vocabolario}} m, {{Ü|it|dizionario}} m
+*ja: [1] {{Üt|ja|辞書|じしょ, jisho}}, {{Üt|ja|辞典|じてん, jiten}}
+*kk: [1] {{Üt|kk|сөздік|sözdik}}
+*csb: [1] {{Ü|csb|słowôrz}}
+*ca: [1] {{Ü|ca|diccionari}} m
+*rw: [1] {{Ü|rw|inkoranyamagambo}}
+*ko: [1] {{Üt|ko|사전|sajeon}}
+*kw: [1] {{Ü|kw|gerlever}} m, {{Ü|kw|gerlyver}} m
+*hr: [1] {{Ü|hr|rječnik}} m
+*ku:
+**kmr: [1] {{Ü|kmr|ferheng}}
+*la: [1] {{Ü|la|dictionarium}} n
+*lv: [1] {{Ü|lv|vārdnīca}} f
 |Ü-rechts=
-*la: [1] {{Ü|la|clinicus}}, {{Ü|la|medicus}} m
-*lv: [1] {{Ü|lv|ārsts}} m
-*lt: [1] {{Ü|lt|gydytojas}} m
-*lb: [1] {{Ü|lb|Dokter}}
-*ms: [1] {{Ü|ms|tabib}}
-*gv: [1] {{Ü|gv|fer lhee}}
-*mk: [1] {{Üt|mk|лекар|lekar}} m, {{Üt|mk|доктор|doktor}} m
-*nl: [1] {{Ü|nl|arts}} m, {{Ü|nl|dokter}} m, {{Ü|nl|geneesheer}} m, {{Ü|nl|medicus}} m
-*se: [1] {{Ü|se|doavttir}}
+*lt: [1] {{Ü|lt|žodynas}}
+*lb: [1] {{Ü|lb|Dictionnaire}} m, {{Ü|lb|Wierderbuch}} n
+*ms: [1] {{Ü|ms|kamus}}
+*gv: [1] {{Ü|gv|fockleyr}}
+*mk: [1] {{Üt|mk|речник|rečnik}} m
+*nds: [1] {{Ü|nds|Nokieksel}}, {{Ü|nds|Wöörbook}}
+*nl: [1] {{Ü|nl|woordenboek}}
+*se: [1] {{Ü|se|sátnegirji}}
 *no:
-**nb: [1] {{Ü|nb|lege}} m, {{Ü|nb|doktor}} m
-**nn: [1] {{Ü|nn|lækjar}} m, {{Ü|nn|lege}} m, {{Ü|nn|doktor}} m
-*nov: [1] {{Ü|nov|medike}}
-*oc: [1] {{Ü|oc|mètge}} m
-*pap: [1] {{Ü|pap|dòkter}}, {{Ü|pap|dòkto}}
-*pl: [1] {{Ü|pl|lekarz}} m, {{Ü|pl|lekarka}} f
-*pt: [1] {{Ü|pt|médico}} m
-*rm: [1] {{Ü|rm|medi}} m, {{Ü|rm|docter}} m
-*ro: [1] {{Ü|ro|doctor}} m, {{Ü|ro|medic}} m
-*ru: [1] {{Üt|ru|врач}} m, {{Üt|ru|доктор}} m
-*gd: [1] {{Ü|gd|lighiche}} m, {{Ü|gd|lèigh}} m, {{Ü|gd|dotair}} m
-*sv: [1] {{Ü|sv|läkare}} u, {{Ü|sv|doktor}} u
-*sr: [1] {{Üt|sr|лекар|lekar}} m, {{Üt|sr|доктор|doktor}} m
-*sh: [1] {{Üt|sh|лекар|lekar}} m, {{Üt|sh|доктор|doktor}} m
-*sk: [1] {{Ü|sk|lekár}} m
-*sl: [1] {{Ü|sl|zdravnik}} m
+**nb: [1] {{Ü|no|ordbok}} mf
+**nn: [1] {{Ü|nn|ordbok}} f
+*oc: [1] {{Ü|oc|diccionari}} m
+*pap: [1] {{Ü|pap|dikshonario}}
+*fa: [1] {{Üt|fa|فرهنگ لغت|}}
+*pl: [1] {{Ü|pl|słownik}} m
+*pt: [1] {{Ü|pt|dicionário}} m
+*ro: [1] {{Ü|ro|dicționar}} n
+*ru: [1] {{Üt|ru|словарь}} m
+*stq: [1] {{Ü|stq|Woudebouk}} n
+*gd: [1] {{Ü|gd|faclair}} m
+*sv: [1] {{Ü|sv|ordbok}} u
+*sr: [1] {{Üt|sr|речник|rečnik}} m
+*sk: [1] {{Ü|sk|slovník}}
+*sl: [1] {{Ü|sl|slovar}}
 *wen:
-**dsb: [1] {{Ü|dsb|gójc}} m, {{Ü|dsb|duchtaŕ}} m
-**hsb: [1] {{Ü|hsb|lěkar}} m
-*es: [1] {{Ü|es|doctor}} m, {{Ü|es|físico}} m, {{Ü|es|médico}} m
-*sw: [1] {{Ü|sw|daktari}}, {{Ü|sw|mganga}}
-*te: [1] {{Üt|te|వైధ్యుడు|vaidhyudu}}
-*cs: [1] {{Ü|cs|lékař}} m
-*tr: [1] {{Ü|tr|doktor}}, {{Ü|tr|hekim}}
-*uk: [1] {{Üt|uk|лікар|likar}} m
-*hu: [1] {{Ü|hu|orvos}} m
-*uz: [1] {{Ü|uz|shifokor}}
-*vi: [1] {{Ü|vi|bác sĩ}}, {{Ü|vi|thầy thuốc}}
-*vo: [1] {{Ü|vo|sanan}}
-*cy: [1] {{Ü|cy|meddyg}} m
-*be: [1] {{Üt|be|лекар|lekar}} m
-*fy: [1] {{Ü|fy|dokter}}
-*wym: [1] {{Ü|wym|dökter}} m
-|Dialekttabelle=
-*Bairisch: [1] ''Dokta''
-|D-rechts=
+**dsb: [1] {{Ü|dsb|słownik}} m
+**hsb: [1] {{Ü|hsb|słownik}}
+*es: [1] {{Ü|es|diccionario}} m
+*th: [1] {{Üt|th|พจนานุกรม|}}
+*cs: [1] {{Ü|cs|slovník}}
+*cv: [1] {{Üt|cv|словарь|slovar'}}
+*tr: [1] {{Ü|tr|lügat}} (veraltend), {{Ü|tr|sözlük}}
+*uk: [1] {{Üt|uk|словник}} m
+*hu: [1] {{Ü|hu|szótár}}
+*vec: [1] {{Ü|vec|gałepin}} m
+*vi: [1] {{Ü|vi|từ điển}}, {{Ü|vi|tự điển}}
+*vo: [1] {{Ü|vo|vödabuk}}
+*cy: [1] {{Ü|cy|geiriadur}} m
+*wa: [1] {{Ü|wa|motî}}
+*be: [1] {{Üt|be|слоўнік|sloŭnik}} m
 }}
 
 Referenzen
 [1] Wikipedia
 [1] Ref-Grimm
 [1] Ref-DWDS
-[*] Ref-UniLeipzig
-[1] Ref-FreeDictionary
 [1] Ref-Duden
-[1] Ref-Goethe
-[1] {{Ref-wissen.de|Wörterbuch}}
-[1] {{Ref-wissen.de|Lexikon}}
-[1] {{Ref-wissen.de|Gesundheit|arzt-aerztin|Arzt/Ärztin}}
-
-Quellen
-
- {{Wortart|Substantiv|Deutsch}}, mf, {{Wortart|Nachname|Deutsch}} 
-
-{{Deutsch Nachname Übersicht
-|Bild 1=Verteilung Nachname Arzt DE.png|mini|1|geografische Verteilung des Nachnamens ''Arzt'' in Deutschland
-}}
-
-Worttrennung
-Arzt, Pl. Arzts
-
-Aussprache
-IPA {{Lautschrift|aːɐ̯t͡st}}, {{Lautschrift|aʁt͡st}}
-Hörbeispiele {{Audio|De-Arzt.ogg}}, {{Audio|De-Arzt2.ogg}}
-Reime {{Reim|aʁt͡st|Deutsch}}
-
-Bedeutungen
-[1] deutschsprachiger Familienname, Nachname
-
-Herkunft
-Berufsname zu mittelhochdeutsch ''arzat, arzet'' „Arzt“ aus mittellateinisch ''arciater''. Der Berufsname wurde schon früh Nachname und meinte ursprünglich den nebenberuflichen Heilkundigen.<ref>{{Lit-Bahlow: Namenlexikon|V=Gondrom}}, Seite 43&nbsp;f.</ref>
-
-Namensvarianten
-Arts, Artz, Artzet, Artzt, Arz, Arzat, Arzet
-
-Bekannte Namensträger
-Eduard Arzt (* 1956 in Linz), österreichischer Physiker und Materialwissenschaftler
-Volker Arzt (* 1941), deutscher Diplom-Physiker, Wissenschaftsjournalist, Fernsehmoderator und Autor
-
-Beispiele
-[1] Frau ''Arzt'' ist ein Genie im Verkauf.
-[1] Herr ''Arzt'' wollte uns kein Interview geben.
-[1] Die ''Arzts'' kommen heute aus Tirol.
-[1] Der ''Arzt'' trägt nie die Schals, die die ''Arzt'' ihm strickt.
-[1] Das kann ich dir aber sagen: „Wenn die Frau ''Arzt'' kommt, geht der Herr ''Arzt''.“
-[1] ''Arzt'' kommt und geht.
-[1] ''Arzts'' kamen, sahen und siegten.
-
-Referenzen
-[1] {{Wikipedia|Arzt (Begriffsklärung)|Arzt}}
-[1] {{Lit-Bahlow: Namenlexikon|V=Gondrom}}, Seite 43&nbsp;f.
-[1] {{Lit-Brechenmacher: Etymologisches Wörterbuch der Deutschen Familiennamen|B=1|A=2}}, Seite 43
-[1] {{Lit-dtv-Atlas: Namenkunde|A=3}}, Seite 109, 128&nbsp;f.
-[1] {{Lit-Duden: Familiennamen|A=2000}}, Seite 92&nbsp;f.
-[1] {{Lit-Gottschald: Deutsche Namenkunde|A=6}}, Seite 92
 [1] Ref-UniLeipzig
-[1] Ref-MetaGenealogy
-[1] Ref-Nachname
-[1] [http://christoph.stoepel.net/geogen/v3/Default.aspx?name=Arzt „Arzt“ bei Geogen Onlinedienst (V. 4.0) - (Namen bitte eintragen; mit Ähnlichkeitssuche)]
-[1] [http://forebears.io/surnames/Arzt „Arzt“ bei forebears.io (weltweite Übersicht mit Ähnlichkeitssuche)]
-[1] [http://www.verwandt.de/karten/absolut/Arzt.html  „Arzt“ bei verwandt.de (dort mit Links zu schweizerischen und polnischen Verteilungs-Karten)]
-[1] [http://namenskarten.lima-city.at Namensverteilung in Österreich (Namen bitte eintragen)]
-[1] [http://www.whitepages.com/name/Arzt „Arzt“ bei whitepages.com (USA und Kanada; englisch)]
-
-Navigationsleiste Anthroponyme
 
 Quellen
 
-{{Ähnlichkeiten 1|Art|Anagramme=ratz, Ratz, zart}}
+{{Ähnlichkeiten 1|Anagramme=Buchwörter}}

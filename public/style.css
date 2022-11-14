@@ -45,7 +45,7 @@ ol {
 
 
 .word {
-    font-size: 10em;
+    font-size: 9em;
     line-height: 0.8em;
 }
 
@@ -112,9 +112,9 @@ ol {
 
 /* -- custom slider element --*/
 .slider-container {
-    width: 2rem;
+    width: min-content;
     height: 100vh;
-    margin: 0 2rem;
+    margin: 0 2rem 0 3em;
     padding: 3rem 0;
 
     display: flex;
@@ -168,5 +168,5 @@ ol {
     border: var(--line-thickness) solid var(--line-color);
 
     cursor: pointer;
-    transition: border-color 0.2s linear, background-color 0.2s linear;
+    transition: border-color 0.2s linear, background-color 0.2s linear, transform 0.2s ease-out;
 }

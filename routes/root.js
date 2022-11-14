@@ -89,7 +89,8 @@ function parseHead(head) {
         case 4:
             // see also, word of the week, word, wordtype
             lineA = head[2].trim().split(/\s/)
-            lineB = head[3].trim().split(/\s/)
+            lineB = head[3].trim().split(/}}/)
+            lineB[0] = `${lineB[0]}}}`
             break;
         case 3:
             lineA = head[1].trim().split(/\s/)
@@ -98,16 +99,16 @@ function parseHead(head) {
             break;
         default:
             lineA = head[0].trim().split(/\s/)
-            lineB = head[1].trim().split(/\s/)
+            lineB = head[1].trim().split(/}}/)
+            lineB[0] = `${lineB[0]}}}`
     }
-    console.log(lineA, lineB)
     let output = {
         code: 'SUCCESS',
         wort: lineA[0],
-        wortart: lineB[0].replace(/{{.*\|(.*)\|.*}}/, "$1").replace(',', ''),
-        genus: resolveGender(lineB[1])
+        sprache: lineA[1].replace(/\({{.*\|(.*)}}\)/, "$1"),
+        wortart: lineB[0].replace(/{{.*\|(.*)\|.*}}/, "$1"),
+        genus: resolveGender(lineB[1].replace(',', '').trim())
     }
-    console.log(output)
     return output
 }
 
@@ -133,7 +134,6 @@ function resolveGender(letter) {
 function parsePart(part, wordjson) {
     let lines = part.split("\n")
     let sectionTitle = lines.shift()
-    console.log(`Parsing section ${sectionTitle}`)
     switch(sectionTitle) {
         case "Nebenformen":
             let forms = []
