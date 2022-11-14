@@ -13,7 +13,7 @@
 
         <!-- local imports -->
         <link rel="stylesheet" href="/style.css">
-        <link rel="icon" href="/favicon.png">
+        <link rel="icon" href="/favicon.ico">
         <script src="/main.js"></script>
     </head>
 
@@ -25,15 +25,15 @@
             <div class="slider-cap slider-end"></div>
         </div>
         <div class="wrapper">
-            <div class="word-wrapper hidden">
-                <h1 class="word">{{wort}}</h1>
+            <div class="word-wrapper" id="wordWrapper">
+                <h1 class="word" id="word">{{wort}}</h1>
                 {{#if genus}}
                     <h4 class="word-subtitle">{{wortart}}, {{genus}}</h4>
                 {{else}}
                     <h4 class="word-subtitle">{{wortart}}</h4>
                 {{/if}}
             </div>
-            <div class="definitions-wrapper hidden">
+            <div class="definitions-wrapper" id="defs">
                 <ol class="definitions">
                     {{#each bedeutungen}}
                         <li><p>{{{this}}}</p></li>
@@ -51,11 +51,11 @@
                 Pfirsichbaumes
                 Pfirsichblüte
                 -->
-                <h1 class="word d2">Pfingstwoche</h1>
-                <h1 class="word d1">Pfingstzeit</h1>
-                <h1 class="word d0">Pfinztag</h1>
-                <h1 class="word d1">Pfirsich</h1>
-                <h1 class="word d2">Pfirsichbaumes</h1>
+                <h1 class="word d2" id="wordScrollPrev2"></h1>
+                <h1 class="word d1" id="wordScrollPrev1"></h1>
+                <h1 class="word d0" id="wordScrollMain"></h1>
+                <h1 class="word d1" id="wordScrollNext1"></h1>
+                <h1 class="word d2" id="wordScrollNext2"></h1>
             </div>
         </div>
         <!--<div class="letter-slider-container">

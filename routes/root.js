@@ -3,10 +3,7 @@ const axios = require('axios')
 
 module.exports = async function (fastify, opts) {
     fastify.get('/', async function (request, reply) {
-        const data = {
-            wort: 'Pflanze',
-        }
-        return reply.view('root.hbs', data)
+        return reply.view('redirect.hbs', {path: '/word/Wörterbuch'})
     })
 
     fastify.get('/word/*', async function (request, reply) {
@@ -17,6 +14,7 @@ module.exports = async function (fastify, opts) {
         let response = await callWiktionaryAPI(word)
         if (response.code.match(/ERR_.*/)) {
             // axios threw an error
+            console.log(response)
             if (response.response.status === 404) {
                 // word page does not exist
                 return reply.view('word404.hbs', {word: word})
@@ -102,12 +100,14 @@ function parseHead(head) {
             lineA = head[0].trim().split(/\s/)
             lineB = head[1].trim().split(/\s/)
     }
+    console.log(lineA, lineB)
     let output = {
         code: 'SUCCESS',
         wort: lineA[0],
         wortart: lineB[0].replace(/{{.*\|(.*)\|.*}}/, "$1").replace(',', ''),
         genus: resolveGender(lineB[1])
     }
+    console.log(output)
     return output
 }
 
