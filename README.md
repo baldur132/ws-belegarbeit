@@ -4,7 +4,6 @@
 ## Projektbeschreibung
 Dieses Projekt ist eine Web-Applikation die als npm Package mittels IBM Cloud (PaaS) veröffentlicht wird. Mit dieser Web-Applikation können Nutzer einzelne Worter mit ihrer Bedeutung und andere Informationen aufrufen. 
 
----
 
 ## Projektaufbau
 Hier werden die Dependencies sowie die backend Struktur erläutert.
@@ -24,7 +23,6 @@ Hier werden die Dependencies sowie die backend Struktur erläutert.
 ### Backend Struktur
 Cloud Foundry mittels IBM Cloud wird als PaaS für eine Node.js instance verwendet. Die Wiktionary API wird aufgerufen bei einem Wortzugriff um die jeweiligen Daten zu holen.
 
----
 
 ## Usage
 
@@ -47,15 +45,36 @@ Hiernach kann die Applikation local bei `http://localhost:3000` abgerufen werden
 
 ### npm Kommandos
 
-#### `npm run dev`
+`npm run dev`
 
 To start the app in dev mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-#### `npm start`
+`npm start`
 
 For production mode
 
-#### `npm run test`
+`npm run test`
 
 Run the test cases.
+
+---
+
+### Präsenation
+
+1. Aufgabenstellung vorstellen (Jonas)
+	- Ziele
+
+2. benutzte Technologien (Jannik)
+	- ibmcloud (PaaS)
+	- cloudfoundry
+	- nodejs
+		- fastify
+		- handlebars
+
+3. implementierung der WebApp (Baldur)
+	- struktur
+	- code
+	- deployment
+
+4. Weboberfläche präsentieren (Jonas)
