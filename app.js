@@ -2,6 +2,7 @@
 
 const path = require('path')
 const AutoLoad = require('@fastify/autoload')
+const Handlebars = require('handlebars')
 
 module.exports = async function (fastify, opts) {
     // fastify view is a templating manager for fastify
@@ -21,6 +22,13 @@ module.exports = async function (fastify, opts) {
     fastify.register(require('@fastify/static'), {
         root: path.join(__dirname, 'public'),
         prefix: '/', // optional: default '/'
+    })
+    Handlebars.registerHelper('hanging', function(word) {
+        if (word.match(/[gjpq]/)) {
+            return true
+        } else {
+            return false
+        }
     })
 
     // Do not touch the following lines

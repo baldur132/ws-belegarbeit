@@ -25,41 +25,91 @@
             <div class="slider-cap slider-end"></div>
         </div>
         <div class="wrapper">
-            <div class="word-wrapper" id="wordWrapper">
-                <h1 class="word" id="word">{{wort}}</h1>
-                {{#if genus}}
-                    <h4 class="word-subtitle">{{wortart}}, {{genus}} ({{sprache}})</h4>
-                {{else}}
-                    <h4 class="word-subtitle">{{wortart}} ({{sprache}})</h4>
+            <div class="content-wrapper hideable">
+                <div class="word-wrapper" id="wordWrapper">
+                    <h1 class="word" id="word">{{wort}}</h1>
+                    {{#if (hanging wort)}}
+                        {{#if genus}}
+                            <h4 class="word-subtitle mt-16">{{wortart}}, {{genus}} ({{sprache}})</h4>
+                        {{else}}
+                            <h4 class="word-subtitle mt-16">{{wortart}} ({{sprache}})</h4>
+                        {{/if}}
+                    {{else}}
+                        {{#if genus}}
+                            <h4 class="word-subtitle">{{wortart}}, {{genus}} ({{sprache}})</h4>
+                        {{else}}
+                            <h4 class="word-subtitle">{{wortart}} ({{sprache}})</h4>
+                        {{/if}}
+                    {{/if}}
+                </div>
+                <div class="definitions-wrapper" id="defs">
+                    <ol class="definitions">
+                        {{#each bedeutungen}}
+                            <li>
+                                <p>{{{this}}}</p>
+                            </li>
+                        {{/each}}
+                    </ol>
+                </div>
+                {{#if alternativen}}
+                    <div class="alternative-wrapper">
+                        <h2 class="mt">Alternative Schreibweisen</h2>
+                        <ol class="alternatives no-bullets">
+                            {{#each alternativen}}
+                                <li><p class="lighter">{{{this}}}</p></li>
+                            {{/each}}
+                        </ol>
+                    </div>
+                {{/if}}
+                {{#if kurz}}
+                    <div class="shortend-wrapper">
+                        <h2 class="mt">Abk&uuml;rzungen</h2>
+                        <ol class="alternatives no-bullets">
+                            {{#each kurz}}
+                                <li><p class="lighter">{{{this}}}</p></li>
+                            {{/each}}
+                        </ol>
+                    </div>
+                {{/if}}
+                {{#if worttrennung}}
+                    <div class="split-wrapper">
+                        <h2 class="mt">Worttrennung</h2>
+                        <h3 class="lighter ms-2 fs-14">{{worttrennung}}</h3>
+                    </div>
+                {{/if}}
+                {{#if beispiele}}
+                    <div class="examples-wrapper">
+                        <h2 class="mt">Beispiele</h2>
+                        <ol class="grammar no-bullets">
+                            {{#each beispiele}}
+                                <li>{{{this}}}</li>
+                            {{/each}}
+                        </ol>
+                    </div>
+                {{/if}}
+                {{#if grammatische_merkmale}}
+                    <div class="grammar-wrapper">
+                        <h2 class="mt">Grammatische Merkmale</h2>
+                        <ul class="grammar">
+                        {{#each grammatische_merkmale}}
+                            <li>{{{this}}}</li>
+                        {{/each}}
+                        </ul>
+                    </div>
                 {{/if}}
             </div>
-            <div class="definitions-wrapper" id="defs">
-                <ol class="definitions">
-                    {{#each bedeutungen}}
-                        <li><p>{{{this}}}</p></li>
-                    {{/each}}
-                </ol>
-            </div>
-
-            <div class="wordlist-wrapper">
-                <!--
-                Pfingstvögel
-                Pfingstwoche
-                Pfingstzeit
-                Pfinztag
-                Pfirsich
-                Pfirsichbaumes
-                Pfirsichblüte
-                -->
-                <h1 class="word d2" id="wordScrollPrev2"></h1>
-                <h1 class="word d1" id="wordScrollPrev1"></h1>
-                <h1 class="word d0" id="wordScrollMain"></h1>
-                <h1 class="word d1" id="wordScrollNext1"></h1>
-                <h1 class="word d2" id="wordScrollNext2"></h1>
-            </div>
         </div>
-        <!--<div class="letter-slider-container">
-            <input type="range" orient="vertical" id="letterSlider" class="letter-slider">
-        </div>-->
+
+        <div class="wordlist-wrapper noSelect">
+            <h1 class="word d2" id="wordScrollPrev2"></h1>
+            <h1 class="word d1" id="wordScrollPrev1"></h1>
+            <h1 class="word d0" id="wordScrollMain"></h1>
+            <h1 class="word d1" id="wordScrollNext1"></h1>
+            <h1 class="word d2" id="wordScrollNext2"></h1>
+        </div>
+
+        <div class="right-footer">
+            <i>Words licensed under CC-BY-SA from <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/de">Wiktionary (Wikimedia)</a></i>  
+        </div>
     </body>
 </html>

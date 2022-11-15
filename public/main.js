@@ -86,7 +86,16 @@ function handleSlider(e) {
                     y = (y <= sliderTopOffset - bHalf) ? sliderTopOffset - bHalf : y
                     let sliderBottom = sliderTopOffset + sliderLength
                     y = (y >= sliderBottom - bHalf) ? sliderBottom - bHalf : y
-                    sliderButton.style.setProperty("--slider-offset", `${y}px`)
+                    // update slider button position                    
+                    sliderButton.style.setProperty("--slider-offset", `${Math.floor(y)}px`)
+
+                    // handle wordlist movement
+                    let wordlist = document.querySelector(".wordlist-wrapper")
+                    let wHalf = wordlist.clientHeight / 2
+                    y = e.clientY - wHalf
+                    y = (y <= sliderTopOffset - wHalf) ? sliderTopOffset - wHalf : y
+                    y = (y >= sliderBottom - wHalf) ? sliderBottom - wHalf : y
+                    wordlist.style.setProperty("--wordlist-offset", `${y}px`)
 
                     // calculate 0-1 slider value based on length
                     let deltaStart = (y - sliderTopOffset + bHalf) / sliderLength
@@ -105,12 +114,14 @@ function handleSlider(e) {
 }
 
 function hideDef() {
-    document.getElementById('wordWrapper').classList.add('hidden')
-    document.getElementById('defs').classList.add('hidden')
+    document.querySelectorAll('.hideable').forEach(e => {
+        e.classList.add("hidden")
+    })
 }
 function showDef() {
-    document.getElementById('wordWrapper').classList.remove('hidden')
-    document.getElementById('defs').classList.remove('hidden')
+    document.querySelectorAll('.hideable').forEach(e => {
+        e.classList.remove("hidden")
+    })
 
     //remove words
     document.getElementById('wordScrollPrev2').innerText = ''
@@ -127,11 +138,11 @@ function updateScrollWords() {
     //console.log(`value ${sliderValue} gives arraypos ${arrayPos} where the word is ${wordList[arrayPos]}`)
     activeWord = wordList[arrayPos]
 
-    document.getElementById('wordScrollPrev2').innerText = wordList[arrayPos - 2]
-    document.getElementById('wordScrollPrev1').innerText = wordList[arrayPos - 1]
+    document.getElementById('wordScrollPrev2').innerText = (wordList[arrayPos - 2]) ? wordList[arrayPos - 2] : ""
+    document.getElementById('wordScrollPrev1').innerText = (wordList[arrayPos - 1]) ? wordList[arrayPos - 1] : ""
     document.getElementById('wordScrollMain').innerText = wordList[arrayPos]
-    document.getElementById('wordScrollNext1').innerText = wordList[arrayPos + 1]
-    document.getElementById('wordScrollNext2').innerText = wordList[arrayPos + 2]
+    document.getElementById('wordScrollNext1').innerText = (wordList[arrayPos + 1]) ? wordList[arrayPos + 1] : ""
+    document.getElementById('wordScrollNext2').innerText = (wordList[arrayPos + 2]) ? wordList[arrayPos + 2] : ""
 }
 
 function getWordList() {

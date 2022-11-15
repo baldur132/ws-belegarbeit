@@ -66,7 +66,13 @@ function parseWiktionaryResponse(raw) {
     //fs.writeFile('output.txt', response, e => {})
 
     // parse individual parts
-    const parts = response.split(/\n\n/)
+    const parts = response.split(/\n\s*\n/)
+    let word = raw.request.path.split('/')
+    word = word[word.length - 1]
+    if (word.length < 2) {
+        parts.shift()
+        parts.shift()
+    }
     const head = parts.shift()
 
     let wordjson = parseHead(head);
@@ -75,7 +81,7 @@ function parseWiktionaryResponse(raw) {
         let parsed = parsePart(parts[i], wordjson);
         wordjson = parsed[0]
         if (parsed[1] === "Quellen") {
-            break;
+            break
         }
     }
 
@@ -85,29 +91,22 @@ function parseWiktionaryResponse(raw) {
 function parseHead(head) {
     head = head.split("\n")
     let lineA = "", lineB = ""
-    switch (head.length) {
-        case 4:
-            // see also, word of the week, word, wordtype
-            lineA = head[2].trim().split(/\s/)
-            lineB = head[3].trim().split(/}}/)
+    for (let i = 0; i < head.length; i++) {
+        if (head[i].trim().match(/^.*\s\({{.*\|.*}}\)$/)) {
+            lineA = head[i].trim().split(/\s/)
+        }
+        if (head[i].trim().match(/^{{.*}}/)) {
+            lineB = head[i].trim().split(/}}/)
             lineB[0] = `${lineB[0]}}}`
-            break;
-        case 3:
-            lineA = head[1].trim().split(/\s/)
-            lineB = head[2].trim().split(/}}/)
-            lineB[0] = `${lineB[0]}}}`
-            break;
-        default:
-            lineA = head[0].trim().split(/\s/)
-            lineB = head[1].trim().split(/}}/)
-            lineB[0] = `${lineB[0]}}}`
+        }
     }
+    //console.log(head, lineA, lineB)
     let output = {
         code: 'SUCCESS',
         wort: lineA[0],
         sprache: lineA[1].replace(/\({{.*\|(.*)}}\)/, "$1"),
         wortart: lineB[0].replace(/{{.*\|(.*)\|.*}}/, "$1"),
-        genus: resolveGender(lineB[1].replace(',', '').trim())
+        genus: resolveGender(lineB[1].replace(',', '').trim()),
     }
     return output
 }
@@ -141,7 +140,7 @@ function parsePart(part, wordjson) {
                 forms.push(lines.shift())
             }
             wordjson.nebenformen = forms;
-            break;
+            break
         case "Bedeutungen":
             let defs = []
             while (lines.length > 0) {
@@ -170,7 +169,67 @@ function parsePart(part, wordjson) {
                 defs.push(def)
             }
             wordjson.bedeutungen = defs
-            break;
+            break
+        case "Beispiele":
+            let examples = []
+            for (let i = 0; i < lines.length; i++) {
+                let id = lines[i].split(/\s/, 1)[0]
+                let ex = lines[i].replace(id, '').trim()
+                id = id.replace(/\[(.*)\]/, "$1")
+                ex = ex.replace(/<.*>.*<\/.*>/g, '')
+                if (ex.match(/''/)) {
+                    ex = ex.split(/''/)
+                    let out = ""
+                    for (let j = 0; j < ex.length; j++) {
+                        if (j % 2) {
+                            // odd
+                            if (j + 1 >= ex.length) {
+                                out += ex[j]
+                            } else {
+                                out += `<i>${ex[j]}`
+                            }
+                        } else {
+                            // even
+                            out += `</i>${ex[j]}`
+                        }
+                    }
+                    ex = out
+                }
+                if (ex.match(/{{.*\|.*}}/)) {
+                    ex = ex.replace(/{{(.*)\|.*}}/, "$1")
+                }
+                examples.push(`<b>${id}.</b> ${ex}`)
+            }
+            wordjson.beispiele = examples
+            break
+        case "Grammatische Merkmale":
+            let grammar = []
+            for (let i = 0; i < lines.length; i++) {
+                let line = lines[i].replace("*", "")
+                line = line.replace(/'''(.*)'''/, '<a href="/word/$1">$1</a>')
+                grammar.push(line)
+            }
+            if (wordjson.wortart.match(/(form|erweit.*)/i)) {
+                wordjson.grammatische_merkmale = grammar
+            }
+            break
+        case "Worttrennung":
+            wordjson.worttrennung = lines[0]
+            break
+        case "Alternative Schreibweisen":
+            let alternatives = []
+            for (let i = 0; i < lines.length; i++) {
+                alternatives.push(lines[i].replace(/\d*\-(.*)/, '<a href="/word/$1">$1</a>'))
+            }
+            wordjson.alternativen = alternatives
+            break
+        case "Abkürzungen":
+            let shorts = []
+            for (let i = 0; i < lines.length; i++) {
+                shorts.push(lines[i])
+            }
+            wordjson.kurz = shorts
+            break
     }
     return [wordjson, sectionTitle]
 }

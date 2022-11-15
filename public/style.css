@@ -22,7 +22,7 @@ body {
     overflow: hidden;
 }
 
-ol {
+ol, ul {
     margin-left: 2rem;
 }
 
@@ -32,14 +32,28 @@ ol {
     flex-direction: column;
 
     align-items: start;
-    justify-content: center;
+    justify-content: start;
 
     flex-grow: 1;
-    margin: 0 0 0 4rem;
+    margin: 3rem 1rem 3rem 1rem;
+    padding-right: 1rem;
+    overflow-y: scroll;
 }
+.content-wrapper {
+    height: fit-content;
+    min-height: max-content;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    transform: translateY(20vh);
+}
+
 .word-wrapper {
     display: flex;
     flex-direction: column;
+    justify-content: start;
     padding: 0 4em 1em 0;
 }
 
@@ -50,6 +64,7 @@ ol {
 }
 
 .word-subtitle {
+    width: fit-content;
     font-size: 2em;
     font-style: italic;
 }
@@ -62,6 +77,16 @@ ol {
 .definitions li p {
     font-size: 1.4rem;
     font-style: normal;
+}
+
+.grammar li {
+    margin-bottom: 0.4rem;
+    font-size: 1.2rem;
+}
+
+.alternatives li {
+    margin-bottom: 0.4rem;
+    font-size: 1.4rem;
 }
 
 
@@ -88,25 +113,76 @@ ol {
 }
 
 .wordlist-wrapper {
+    height: fit-content;
+
+    position: absolute;
+    top: 0;
+    left: 4rem;
+
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+
+    --wordlist-offset: 0;
+    transform: translateY(var(--wordlist-offset));
+    transition: transform 0.1s ease-out;
 }
 .wordlist-wrapper .d2 {
     pointer-events: none;
     color: #aaa;
+    font-size: 4vh;
 }
 .wordlist-wrapper .d1 {
     pointer-events: none;
+    margin-left: 0.1rem;
     color: #888;
+    font-size: 5vh;
 }
 .wordlist-wrapper .d0 {
-    color: #000
+    color: #000;
+    margin-left: 0.2rem;
+    font-size: 6vh;
+}
+
+
+.right-footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+
+    padding: 0.5rem;
 }
 
 
 /* -- helper classes -- */
 .hidden {
     display: none;
+}
+.no-bullets {
+    list-style-type: none;
+}
+.mt {
+    margin-top: 1rem;
+}
+.mt-16 {
+    margin-top: 1.6rem;
+}
+.ms-2 {
+    margin-left: 2rem;
+}
+.lighter {
+    font-weight: lighter;
+}
+.fs-14 {
+    font-size: 1.4rem;
+}
+.noSelect {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;
 }
 
 
@@ -168,5 +244,7 @@ ol {
     border: var(--line-thickness) solid var(--line-color);
 
     cursor: pointer;
-    transition: border-color 0.2s linear, background-color 0.2s linear, transform 0.2s ease-out;
+    transition: border-color 0.2s linear,
+                background-color 0.2s linear,
+                transform 0.1s ease-out;
 }
