@@ -24,6 +24,22 @@ function init() {
     window.addEventListener("mousemove", handleSlider)
     window.addEventListener("mousedown", handleSlider)
     window.addEventListener("mouseup", handleSlider)
+    document.querySelector(".search-icon").addEventListener("click", e => {
+        let elem = document.getElementById("searchInput")
+        if (elem.classList.contains("hidden")) {
+            elem.classList.remove("hidden")
+            elem.focus()
+        } else {
+            elem.classList.add("hidden")
+            e.target.focus()
+        }
+    })
+    document.getElementById("searchInput").addEventListener("keydown", e => {
+        if (e.key === "Enter") {
+            let word = document.getElementById("searchInput").value;
+            window.location.href = `${window.location.origin}/word/${word}`
+        }
+    })
 
     // load words for scrolling
     getWordList()
@@ -89,6 +105,12 @@ function handleSlider(e) {
                     // update slider button position                    
                     sliderButton.style.setProperty("--slider-offset", `${Math.floor(y)}px`)
 
+                    // calculate 0-1 slider value based on length
+                    let deltaStart = (y - sliderTopOffset + bHalf) / sliderLength
+                    //let decimalPlaces = 5
+                    //sliderValue = Math.floor(deltaStart * Math.pow(10, decimalPlaces)) / Math.pow(10, decimalPlaces)
+                    sliderValue = deltaStart
+
                     // handle wordlist movement
                     let wordlist = document.querySelector(".wordlist-wrapper")
                     let wHalf = wordlist.clientHeight / 2
@@ -96,12 +118,6 @@ function handleSlider(e) {
                     y = (y <= sliderTopOffset - wHalf) ? sliderTopOffset - wHalf : y
                     y = (y >= sliderBottom - wHalf) ? sliderBottom - wHalf : y
                     wordlist.style.setProperty("--wordlist-offset", `${y}px`)
-
-                    // calculate 0-1 slider value based on length
-                    let deltaStart = (y - sliderTopOffset + bHalf) / sliderLength
-                    //let decimalPlaces = 5
-                    //sliderValue = Math.floor(deltaStart * Math.pow(10, decimalPlaces)) / Math.pow(10, decimalPlaces)
-                    sliderValue = deltaStart
 
                     // call update for scroll display
                     updateScrollWords()

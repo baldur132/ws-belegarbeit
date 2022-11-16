@@ -248,3 +248,28 @@ ol, ul {
                 background-color 0.2s linear,
                 transform 0.1s ease-out;
 }
+
+.search-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.search-icon path {
+    fill: var(--line-color);
+    transition: fill 0.2s linear;
+}
+
+.search-input {
+    position: absolute;
+    top: 2.8rem;
+    left: 5rem;
+    font-size: 1.2rem;
+    font-family: inherit;
+    border: none;
+    border-bottom: var(--line-thickness) solid var(--line-color);
+    transition: border-color 0.2s linear;
+}
+.search-input:hover, .search-input:focus {
+    --line-color: #000;
+}

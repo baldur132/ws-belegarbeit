@@ -159,13 +159,7 @@ function parsePart(part, wordjson) {
                     tags.shift()
                     console.log(tags)
                 }
-                if (def.match(/''.+''/)) {
-                    // replace italic markers
-                    def.split("''")
-                    for (let i = 0; i < def.length; i++) {
-                        
-                    }
-                }   
+                def = replaceDoubleQuotes(def)
                 defs.push(def)
             }
             wordjson.bedeutungen = defs
@@ -177,24 +171,7 @@ function parsePart(part, wordjson) {
                 let ex = lines[i].replace(id, '').trim()
                 id = id.replace(/\[(.*)\]/, "$1")
                 ex = ex.replace(/<.*>.*<\/.*>/g, '')
-                if (ex.match(/''/)) {
-                    ex = ex.split(/''/)
-                    let out = ""
-                    for (let j = 0; j < ex.length; j++) {
-                        if (j % 2) {
-                            // odd
-                            if (j + 1 >= ex.length) {
-                                out += ex[j]
-                            } else {
-                                out += `<i>${ex[j]}`
-                            }
-                        } else {
-                            // even
-                            out += `</i>${ex[j]}`
-                        }
-                    }
-                    ex = out
-                }
+                ex = replaceDoubleQuotes(ex)
                 if (ex.match(/{{.*\|.*}}/)) {
                     ex = ex.replace(/{{(.*)\|.*}}/, "$1")
                 }
@@ -232,4 +209,25 @@ function parsePart(part, wordjson) {
             break
     }
     return [wordjson, sectionTitle]
+}
+
+function replaceDoubleQuotes(input) {
+    let out = ""
+    if (input.match(/''/)) {
+        input = input.split(/''/)
+        for (let j = 0; j < input.length; j++) {
+            if (j % 2) {
+                // odd
+                if (j + 1 >= input.length) {
+                    out += input[j]
+                } else {
+                    out += `<i>${input[j]}`
+                }
+            } else {
+                // even
+                out += `</i>${input[j]}`
+            }
+        }
+    }
+    return (out === "") ? input : out 
 }
