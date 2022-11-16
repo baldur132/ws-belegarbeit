@@ -63,9 +63,9 @@ Für Projekte die in Deutschland deployed werden kann `https://api.eu-de.cf.clou
 Um eine Organisation bzw. eine Space für die App zu erstellen, können die folgenden Kommandos ausgeführt werden, wo `[organisation]` und `[space]` jeweils die Namen der erwünschten Organisation bzw. Space sind.
 
 ```
-ibmcloud org-create [organisation] -r eu-de
+ibmcloud account org-create [organisation] -r eu-de
 
-ibmcloud space-create -o [organisation] [space]
+ibmcloud account space-create -o [organisation] [space]
 ```
 
 #### Pushing
