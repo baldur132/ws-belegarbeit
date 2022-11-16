@@ -10,6 +10,9 @@ module.exports = async function (fastify, opts) {
         
         // find target word
         let word = decodeURIComponent(request.url.split('/')[2])
+        if (word === "") {
+            return reply.view('redirect.hbs', {path: '/word/Wörterbuch'})
+        }
         // get word data
         let response = await callWiktionaryAPI(word)
         if (response.code.match(/ERR_.*/)) {
