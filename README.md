@@ -42,6 +42,40 @@ Die Web-Applikation sowie die Dependencies können mittels [npm](https://docs.np
 Hiernach kann die Applikation local bei `http://localhost:3000` abgerufen werden.
 
 ### Deployment
+Deployment kann über einen beliebigen PaaS Anbieter gemacht werden, jedoch würde dieses Projekt mit IBM Cloud und Cloud Foundry veröffentlicht mittels der IBM Cloud CLI.
+
+#### Prerequisites
+ - Erstellen eines IBM Cloud Kontos bei [cloud.ibm.com](https://cloud.ibm.com)
+ - Installieren der IBM Cloud CLI ([docs](https://cloud.ibm.com/docs/cli))
+ - Login per Kommandozeile mit `ibmcloud login`
+ - Installieren der Cloud Foundry IBM plugin mittels `ibmcloud cf install`
+
+#### Targeting
+Zunächst muss ein Ziel für die Web Applikation ausgewählt werden. Dies erfolt mit dem folgenden Kommando,
+
+```
+ibmcloud target --cf-api [endpoint] -o [organisation] -s [space]
+```
+
+wo jeweils der `[endpoint]`, `[organisation]`, und `[space]` entsprechend ausgefüllt sind.
+Für Projekte die in Deutschland deployed werden kann `https://api.eu-de.cf.cloud.ibm.com` als Endpoint benutzt werden.  
+
+Um eine Organisation bzw. eine Space für die App zu erstellen, können die folgenden Kommandos ausgeführt werden, wo `[organisation]` und `[space]` jeweils die Namen der erwünschten Organisation bzw. Space sind.
+
+```
+ibmcloud org-create [organisation] -r eu-de
+
+ibmcloud space-create -o [organisation] [space]
+```
+
+#### Pushing
+Hiernach kann die app gepusht werden mit dem folgenden Kommando, wo `[appname]` der Name der App entspricht:
+
+```
+ibmcloud cf push [appname] -b https://github.com/cloudfoundry/nodejs-buildpack
+```
+
+Nach dem Push sollte die App von der ausgegebenen Route öffentlich verfügbar sein.
 
 ### npm Kommandos
 
