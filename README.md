@@ -92,23 +92,3 @@ For production mode
 
 Run the test cases.
 
----
-
-### Präsenation
-
-1. Aufgabenstellung vorstellen (Jonas)
-	- Ziele
-
-2. benutzte Technologien (Jannik)
-	- ibmcloud (PaaS)
-	- cloudfoundry
-	- nodejs
-		- fastify
-		- handlebars
-
-3. implementierung der WebApp (Baldur)
-	- struktur
-	- code
-	- deployment
-
-4. Weboberfläche präsentieren (Jonas)
