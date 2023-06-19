@@ -29,14 +29,10 @@ Cloud Foundry mittels IBM Cloud wird als PaaS für eine Node.js instance verwend
 ### Installation
 Die Web-Applikation sowie die Dependencies können mittels [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installiert werden. Falls Node.js und npm installiert sind, kann das Repository mit den folgenden Kommandos die Web-Applikation installiert und gestartet werden.
 
-```
-# git clone https://github.com/baldur132/ws-belegarbeit.git
+```sh
+git clone https://github.com/baldur132/ws-belegarbeit.git && cd ./ws-belegarbeit
 
-# cd ./ws-belegarbeit
-
-# npm install
-
-# npm start
+npm install && npm start
 ```
 
 Hiernach kann die Applikation local bei `http://localhost:3000` abgerufen werden.
@@ -53,7 +49,7 @@ Deployment kann über einen beliebigen PaaS Anbieter gemacht werden, jedoch wür
 #### Targeting
 Zunächst muss ein Ziel für die Web Applikation ausgewählt werden. Dies erfolt mit dem folgenden Kommando,
 
-```
+```sh
 ibmcloud target --cf-api [endpoint] -o [organisation] -s [space]
 ```
 
@@ -62,7 +58,7 @@ Für Projekte die in Deutschland deployed werden kann `https://api.eu-de.cf.clou
 
 Um eine Organisation bzw. eine Space für die App zu erstellen, können die folgenden Kommandos ausgeführt werden, wo `[organisation]` und `[space]` jeweils die Namen der erwünschten Organisation bzw. Space sind.
 
-```
+```sh
 ibmcloud account org-create [organisation] -r eu-de
 
 ibmcloud account space-create -o [organisation] [space]
@@ -71,7 +67,7 @@ ibmcloud account space-create -o [organisation] [space]
 #### Pushing
 Hiernach kann die app gepusht werden mit dem folgenden Kommando, wo `[appname]` der Name der App entspricht:
 
-```
+```sh
 ibmcloud cf push [appname] -b https://github.com/cloudfoundry/nodejs-buildpack
 ```
 
